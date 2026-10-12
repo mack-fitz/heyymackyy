@@ -40,6 +40,24 @@ different Zernio profile, different repo, different voice. Never cross-post or m
 - Posts are not explicit, so don't mark them sensitive. If X ever flags or limits the account,
   tell Mack.
 
+## Fix it yourself (Mack's standing rule)
+Mack should never have to tell you to circle back. Every run, before messaging him:
+- **Failed posts:** find them (posts_list_failed, and any post in this account's schedule whose
+  status is failed/error). Fix the cause (re-encode or shrink media, swap a broken media URL for a
+  pinned-commit raw URL, re-crop, shorten a caption) and reschedule into the next open slot, or the
+  same slot if it hasn't passed. Retry transient errors once; if it fails again, change approach.
+- **Empty slots:** every slot for the next 3 days must have a post. Fill any gap.
+- **Bad content:** anything that breaks the rules here (AI tells, wrong crop, cut mid-word, hook
+  under the audio bar) gets replaced or re-edited before it goes out.
+- **Disconnected account / expired token:** this is the one thing you can't fix — tell Mack
+  exactly what to reconnect.
+- In the message, report fixes as done ("Thursday 8pm was empty — filled it with X"), not as
+  questions. Only ask Mack for things you truly can't do.
+
+## Mack's review
+Everything scheduled shows on the dashboard's "Up next" queue. Mack may look and ask for changes
+in chat; if he says nothing, proceed as planned. Never wait on his approval to post.
+
 ## Daily pipeline
 1. Clone this repo (add_repo mack-fitz/heyymackyy with push access; git clone --depth 1).
 2. **Relay new images:** list Dropbox `/abmclip` (non-recursive). For files not in
@@ -67,6 +85,11 @@ different Zernio profile, different repo, different voice. Never cross-post or m
 4. **Schedule** with Zernio posts_create_post (scheduled_for in UTC; MT = UTC-6 now, UTC-7 after
    Nov 1). X: platform twitter, accountId above, media_items with type image. Record each post
    in state/schedule.json and state/posted.json, commit, push.
+   **Dashboard** (https://claude.ai/artifact/RED3oyrsVPiYhsTJZyTpDK): after any scheduling change run
+   `python3 tools/upnext.py /tmp/upnext.json`, upload it as an asset to the dashboard (Artifact
+   publish with asset: true), and update `datasets/upnext` source.url + updated (read it first for
+   if_version). Refresh `datasets/queue` the same way. Use a `note` on a schedule entry for
+   anything Mack should see on the card (e.g. "swapped in: original had a weird hand").
 5. **Message Mack** (SendUserMessage), short: what's scheduled today (times MT, caption each),
    yesterday's X numbers (impressions/views, likes, follows if available), how many unposted
    images are left and how many days that covers (warn under 5 days), anything skipped or failing.
