@@ -28,7 +28,7 @@ different Zernio profile, different repo, different voice. Never cross-post or m
   message for Mack.
 
 ## Pace and timing (Mountain time)
-- X: 3 posts a day: morning 8:30-10:00, afternoon 1:00-3:00, evening 7:30-9:30. Vary minutes.
+- X: 3 posts a day: morning 7:30-8:15 (= 9:30-10:15 Eastern, catches the East Coast morning), afternoon 1:00-3:00, evening 7:30-9:30. Vary minutes.
   Mostly single images; about one post a day can be 2-4 images from the same set.
 - Instagram (once it exists): 2 feed posts a day (mix of carousels from sets and singles, 4:5),
   plus 1-3 stories a day from leftover singles. Set the AI-generated label on every Instagram post
