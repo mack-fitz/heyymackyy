@@ -53,6 +53,15 @@ different Zernio profile, different repo, different voice. Never cross-post or m
    keep scheduling from images already in images/.
 3. **Look at the images** you're about to post (Read them) before writing captions, so the caption
    fits the photo. Crop to 4:5 only if an image is not already 4:5 (center crop, keep the face).
+   **AI check is mandatory, every image, every time** (Mack: "don't let things look too AI").
+   View the full image AND zoomed crops of each hand, arm, the legs/feet and any mirror. Reject if
+   ANY of these: extra or missing arms, legs, hands or fingers (count them: 2 arms, 2 hands,
+   5 fingers each where visible); fused, bent-wrong or melting fingers; a hand not connected to an
+   arm; a phone grip that makes no sense; a mirror reflection that doesn't match the pose; warped
+   straight lines (door frames, racks, tiles) near the body; garbled text or logos; duplicated
+   straps or jewelry; waxy, over-smoothed skin; mismatched eyes or earrings. When in doubt, skip.
+   Add rejects to `rejected` in state/posted.json with the reason, never post anything listed
+   there, and mention rejects in the daily message.
 4. **Schedule** with Zernio posts_create_post (scheduled_for in UTC; MT = UTC-6 now, UTC-7 after
    Nov 1). X: platform twitter, accountId above, media_items with type image. Record each post
    in state/schedule.json and state/posted.json, commit, push.

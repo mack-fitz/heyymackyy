@@ -1,8 +1,7 @@
 {
  "note": "Which images have been posted where. Keys are files under images/.",
- "posted": {
-  "images/FoxyAI_Image_54bc88d1-ab51-4671-9d2e-2063558b13e1.jpeg": {
-   "twitter": "2026-10-12"
-  }
+ "posted": {},
+ "rejected": {
+  "images/FoxyAI_Image_54bc88d1-ab51-4671-9d2e-2063558b13e1.jpeg": "three arms (Mack flagged). Never post."
  }
 }
