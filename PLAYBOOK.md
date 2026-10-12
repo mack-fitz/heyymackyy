@@ -93,3 +93,6 @@ in chat; if he says nothing, proceed as planned. Never wait on his approval to p
 5. **Message Mack** (SendUserMessage), short: what's scheduled today (times MT, caption each),
    yesterday's X numbers (impressions/views, likes, follows if available), how many unposted
    images are left and how many days that covers (warn under 5 days), anything skipped or failing.
+
+## Macky To Do page
+**Macky To Do** (https://claude.ai/artifact/NkJnRhgLLfSWz1XXfHbQ79): every run, ArtifactData `update` this account's doc in collection `queues` with `days_left` (number), `detail` (one plain line: what is left and the pace) and `updated` ("Mon D"). Sundays: add 2-3 new docs to `ideas` (fields order, title, where, effort, what, why) that fit Mack's masc/dry/silly vibe. Doc id(s) for this repo: heyymackyy.
