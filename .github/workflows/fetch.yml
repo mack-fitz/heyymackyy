@@ -1,0 +1,40 @@
+name: fetch-inbox
+on:
+  push:
+    paths: ['inbox/links.txt']
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download linked media
+        run: |
+          set -e
+          mkdir -p inbox/media
+          # download everything first (links expire), then shrink big files
+          while IFS='|' read -r name url; do
+            [ -z "$name" ] && continue
+            curl -sSL --fail --retry 3 -o "inbox/media/$name" "$url" || echo "FAILED $name" >> inbox/failed.txt
+          done < inbox/links.txt
+          rm -f inbox/links.txt
+          sudo apt-get -qq update >/dev/null 2>&1 || true
+          sudo apt-get -qq install -y ffmpeg >/dev/null 2>&1 || true
+          for f in inbox/media/*; do
+            [ -f "$f" ] || continue
+            size=$(stat -c %s "$f")
+            if [ "$size" -gt 95000000 ]; then
+              out="${f%.*}.mp4"; [ "$out" = "$f" ] && out="${f%.*}_s.mp4"
+              ffmpeg -nostdin -v error -y -i "$f" -c:v libx264 -preset fast -b:v 4M -maxrate 5M -bufsize 8M -c:a aac -b:a 160k "$out"
+              rm -f "$f"
+            fi
+          done
+          ls -la inbox/media
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A inbox
+          git commit -m "Fetch inbox media" || exit 0
+          git push
