@@ -1,7 +1,12 @@
 name: fetch-inbox
+# Two ways in:
+#  - inbox/want.txt: one Dropbox file name per line. Downloads the shared folder (link stored in
+#    the DROPBOX_FOLDER_URL secret) and keeps only those files. Used by the background task.
+#  - inbox/links.txt: name|url lines (temporary links). Used from chat.
 on:
   push:
-    paths: ['inbox/links.txt']
+    paths: ['inbox/links.txt', 'inbox/want.txt']
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
@@ -9,15 +14,34 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Download linked media
+      - name: Download
+        env:
+          FOLDER_URL: ${{ secrets.DROPBOX_FOLDER_URL }}
         run: |
           set -e
           mkdir -p inbox/media
-          # download everything first (links expire), then shrink big files
-          while IFS='|' read -r name url; do
-            [ -z "$name" ] && continue
-            curl -sSL --fail --retry 3 -o "inbox/media/$name" "$url" || echo "FAILED $name" >> inbox/failed.txt
-          done < inbox/links.txt
+          if [ -s inbox/want.txt ]; then
+            if [ -z "$FOLDER_URL" ]; then echo "DROPBOX_FOLDER_URL secret missing" >> inbox/failed.txt; else
+              url=$(echo "$FOLDER_URL" | sed -E 's/([?&])dl=0/\1dl=1/')
+              case "$url" in *dl=1*) ;; *\?*) url="$url&dl=1";; *) url="$url?dl=1";; esac
+              curl -sSL --fail --retry 3 -o /tmp/folder.zip "$url" || echo "FAILED folder download" >> inbox/failed.txt
+              if [ -f /tmp/folder.zip ]; then
+                mkdir -p /tmp/folder && unzip -qo /tmp/folder.zip -d /tmp/folder || true
+                while IFS= read -r name; do
+                  [ -z "$name" ] && continue
+                  src=$(find /tmp/folder -type f -name "$name" | head -1)
+                  if [ -n "$src" ]; then cp "$src" "inbox/media/$name"; else echo "MISSING $name" >> inbox/failed.txt; fi
+                done < inbox/want.txt
+              fi
+            fi
+          fi
+          rm -f inbox/want.txt
+          if [ -s inbox/links.txt ]; then
+            while IFS='|' read -r name url; do
+              [ -z "$name" ] && continue
+              curl -sSL --fail --retry 3 -o "inbox/media/$name" "$url" || echo "FAILED $name" >> inbox/failed.txt
+            done < inbox/links.txt
+          fi
           rm -f inbox/links.txt
           sudo apt-get -qq update >/dev/null 2>&1 || true
           sudo apt-get -qq install -y ffmpeg >/dev/null 2>&1 || true
