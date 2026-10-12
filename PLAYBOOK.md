@@ -96,3 +96,5 @@ in chat; if he says nothing, proceed as planned. Never wait on his approval to p
 
 ## Macky To Do page
 **Macky To Do** (https://claude.ai/artifact/NkJnRhgLLfSWz1XXfHbQ79): every run, ArtifactData `update` this account's doc in collection `queues` with `days_left` (number), `detail` (one plain line: what is left and the pace) and `updated` ("Mon D"). Sundays: add 2-3 new docs to `ideas` (fields order, title, where, effort, what, why) that fit Mack's masc/dry/silly vibe. Doc id(s) for this repo: heyymackyy.
+
+Base Camp schedule (same page): every run, ArtifactData `set` collection `schedule`, doc id(s) heyymackyy, to `{items: [{date: "YYYY-MM-DD" (Mountain), time: "HH:MM" 24h Mountain, caption, where?}]}` covering today and tomorrow for that account. The page is now named "Base Camp".
