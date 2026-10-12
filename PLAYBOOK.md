@@ -43,13 +43,15 @@ different Zernio profile, different repo, different voice. Never cross-post or m
 ## Daily pipeline
 1. Clone this repo (add_repo mack-fitz/heyymackyy with push access; git clone --depth 1).
 2. **Relay new images:** list Dropbox `/abmclip` (non-recursive). For files not in
-   state/processed.json, get `download_link`s (900s) and write `name|url` lines to inbox/links.txt,
-   commit, push. The fetch-inbox workflow downloads them into inbox/media/ and pushes
-   ("Fetch inbox media"). Poll `git fetch` until that commit lands, pull, then `git mv` each file
-   into images/ (keep names), record its Dropbox ID in state/processed.json, commit, push.
+   state/processed.json, write their NAMES (one per line, names only, never URLs) to
+   inbox/want.txt, commit, push. The fetch-inbox workflow downloads the shared folder using the
+   DROPBOX_FOLDER_URL repo secret, puts those files in inbox/media/ and pushes ("Fetch inbox
+   media"). Never commit Dropbox links (GitHub blocks the push). Poll `git fetch` until that commit
+   lands, pull, check inbox/failed.txt, then `git mv` each file into images/ (keep names), record
+   its Dropbox ID in state/processed.json, `git rm` inbox/failed.txt if present, commit, push.
    Images in images/ are served to Zernio from
    https://raw.githubusercontent.com/mack-fitz/heyymackyy/main/images/<name> (URL-encode spaces).
-   If the relay step fails, say exactly which call failed and the error text in the message, and
+   If the relay step fails, say exactly which step failed and the error text in the message, and
    keep scheduling from images already in images/.
 3. **Look at the images** you're about to post (Read them) before writing captions, so the caption
    fits the photo. Crop to 4:5 only if an image is not already 4:5 (center crop, keep the face).
