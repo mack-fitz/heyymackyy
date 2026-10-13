@@ -29,7 +29,7 @@
    ],
    "caption": "my trainer said no phones. he's not here",
    "zernio_post_id": "6acce16efa483007c3c67294",
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "date": "2026-10-12",
@@ -41,7 +41,7 @@
    ],
    "caption": "nautical but nice",
    "zernio_post_id": "6acce1756162c9c38448a0cc",
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "date": "2026-10-12",
@@ -53,7 +53,7 @@
    ],
    "caption": "carb loading for absolutely nothing",
    "zernio_post_id": "6acce179fa483007c3c67aa5",
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "date": "2026-10-13",
@@ -171,6 +171,66 @@
    "caption": "do not disturb unless you're bringing a refill",
    "zernio_post_id": "6acce1d900fb8e434f406bfa",
    "status": "scheduled"
+  },
+  {
+   "date": "2026-10-16",
+   "time_mt": "14:27",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_24037b36-4633-4923-8798-78e5995c1c58.jpeg"
+   ],
+   "caption": "checkout's at 11. we'll see",
+   "zernio_post_id": "6ace24649307030a7d909cfd",
+   "status": "scheduled",
+   "image": "images/FoxyAI_Image_24037b36-4633-4923-8798-78e5995c1c58.jpeg"
+  },
+  {
+   "date": "2026-10-16",
+   "time_mt": "20:48",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_2.jpeg"
+   ],
+   "caption": "pool closes at 10. allegedly",
+   "zernio_post_id": "6ace24679307030a7d909d01",
+   "status": "scheduled",
+   "image": "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_2.jpeg"
+  },
+  {
+   "date": "2026-10-17",
+   "time_mt": "07:58",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_3.jpeg"
+   ],
+   "caption": "spotted: me",
+   "zernio_post_id": "6ace2468784a4a358c449d0a",
+   "status": "scheduled",
+   "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_3.jpeg"
+  },
+  {
+   "date": "2026-10-17",
+   "time_mt": "13:52",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_1.jpeg",
+    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_3.jpeg"
+   ],
+   "caption": "sat on a rock for 3 hours. would not recommend",
+   "zernio_post_id": "6ace246b1732f8b3cdf0316a",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-17",
+   "time_mt": "20:19",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_2.jpeg"
+   ],
+   "caption": "surf lesson went great. never stood up",
+   "zernio_post_id": "6ace246cf1197cbfd105d6f3",
+   "status": "scheduled",
+   "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_2.jpeg"
   }
  ]
 }
