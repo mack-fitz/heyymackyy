@@ -65,7 +65,7 @@
    ],
    "caption": "currently 40% sunscreen, 60% sand",
    "zernio_post_id": "6acce17c8c1af12cc7cb75a8",
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "date": "2026-10-13",
@@ -77,7 +77,7 @@
    ],
    "caption": "caught you looking (i was also looking)",
    "zernio_post_id": "6acce17fc7b7f7079650ba5c",
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "date": "2026-10-13",
@@ -89,7 +89,7 @@
    ],
    "caption": "hydrating (it's iced coffee)",
    "zernio_post_id": "6acce1828c1af12cc7cb75c4",
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "date": "2026-10-14",
@@ -231,6 +231,80 @@
    "zernio_post_id": "6ace246cf1197cbfd105d6f3",
    "status": "scheduled",
    "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_2.jpeg"
+  },
+  {
+   "date": "2026-10-18",
+   "time_mt": "07:44",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_3.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_3.jpeg",
+   "caption": "leaning on this tree like it owes me money",
+   "zernio_post_id": "6acf76cf20c8c5bcbf54d4d4",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-18",
+   "time_mt": "14:09",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_5.jpeg",
+    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_4.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_5.jpeg",
+   "caption": "dipped one toe in. need a nap",
+   "zernio_post_id": "6acf76d420c8c5bcbf54d4e6",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-18",
+   "time_mt": "20:37",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_5.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_5.jpeg",
+   "caption": "sunglasses at night. the pool is very bright",
+   "zernio_post_id": "6acf76d6ede587bc5016a81a",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-19",
+   "time_mt": "07:56",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_1.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_1.jpeg",
+   "caption": "paddleboarding (lying down counts)",
+   "zernio_post_id": "6acf76d8ede587bc5016a823",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-19",
+   "time_mt": "13:33",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_6ff2809d-ac8d-4023-b969-d87af6e5de90.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_6ff2809d-ac8d-4023-b969-d87af6e5de90.jpeg",
+   "caption": "hand on head bc i forgot why i came outside",
+   "zernio_post_id": "6acf76d9ede587bc5016a830",
+   "status": "scheduled",
+   "note": "cropped 9:16 to 4:5"
+  },
+  {
+   "date": "2026-10-19",
+   "time_mt": "20:22",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_5.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_5.jpeg",
+   "caption": "drew you a heart. the tide gets a vote",
+   "zernio_post_id": "6acf76db4d84fdf02cf3c6cc",
+   "status": "scheduled"
   }
  ]
 }
