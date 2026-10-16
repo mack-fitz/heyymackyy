@@ -1,114 +1,117 @@
 {
-  "note": "Which images have been posted where. Keys are files under images/.",
-  "posted": {
-    "images/FoxyAI_Image_bf78ebfb-dc4e-4fce-86c0-d5ad3507a390.jpeg": {
-      "twitter": "2026-10-11"
-    },
-    "images/FoxyAI_Image_72f64baf-be75-4fae-b197-2e8dfbbd0e69.jpeg": {
-      "twitter": "2026-10-12"
-    },
-    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_2.jpeg": {
-      "twitter": "2026-10-12"
-    },
-    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_4.jpeg": {
-      "twitter": "2026-10-12"
-    },
-    "images/FoxyAI_Image_f7eba806-fd73-4001-ab53-24feecb46a58.jpeg": {
-      "twitter": "2026-10-12"
-    },
-    "images/FoxyAI_Image_13fb99ef-c154-4018-b74e-aea63aa6a3a0.jpeg": {
-      "twitter": "2026-10-13"
-    },
-    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_1.jpeg": {
-      "twitter": "2026-10-13"
-    },
-    "images/FoxyAI_Image_eadf1519-115b-4866-9a07-23d1c444e6b9.jpeg": {
-      "twitter": "2026-10-13"
-    },
-    "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_2.jpeg": {
-      "twitter": "2026-10-14"
-    },
-    "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_4.jpeg": {
-      "twitter": "2026-10-14"
-    },
-    "images/FoxyAI_Image_0168ad5c-8370-4b03-82f7-05f24c8e67bf.jpeg": {
-      "twitter": "2026-10-14"
-    },
-    "images/FoxyAI_Image_4fc4ca74-5f51-494d-86f4-e211fef08da5.jpeg": {
-      "twitter": "2026-10-14"
-    },
-    "images/FoxyAI_Image_9b53826b-2d7e-4221-9ce0-902c0f807ab9.jpeg": {
-      "twitter": "2026-10-15"
-    },
-    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_2.jpeg": {
-      "twitter": "2026-10-15"
-    },
-    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_4.jpeg": {
-      "twitter": "2026-10-16"
-    },
-    "images/FoxyAI_Image_81070d43-c22b-4f6a-9c1b-236a675761df.jpeg": {
-      "twitter": "2026-10-15"
-    },
-    "images/FoxyAI_Image_24037b36-4633-4923-8798-78e5995c1c58.jpeg": {
-      "twitter": "2026-10-16"
-    },
-    "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_2.jpeg": {
-      "twitter": "2026-10-16"
-    },
-    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_3.jpeg": {
-      "twitter": "2026-10-17"
-    },
-    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_1.jpeg": {
-      "twitter": "2026-10-17"
-    },
-    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_3.jpeg": {
-      "twitter": "2026-10-17"
-    },
-    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_2.jpeg": {
-      "twitter": "2026-10-17"
-    },
-    "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_3.jpeg": {
-      "twitter": "2026-10-18"
-    },
-    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_5.jpeg": {
-      "twitter": "2026-10-18"
-    },
-    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_4.jpeg": {
-      "twitter": "2026-10-18"
-    },
-    "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_5.jpeg": {
-      "twitter": "2026-10-18"
-    },
-    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_1.jpeg": {
-      "twitter": "2026-10-19"
-    },
-    "images/FoxyAI_Image_6ff2809d-ac8d-4023-b969-d87af6e5de90.jpeg": {
-      "twitter": "2026-10-19"
-    },
-    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_5.jpeg": {
-      "twitter": "2026-10-19"
-    },
-    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_5.jpeg": {
-      "twitter": "2026-10-20"
-    },
-    "images/FoxyAI_Image_ae2c8b72-0d17-46ac-a7f7-60ce29efb309.jpeg": {
-      "twitter": "2026-10-20"
-    },
-    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_3.jpeg": {
-      "twitter": "2026-10-20"
-    }
+ "note": "Which images have been posted where. Keys are files under images/.",
+ "posted": {
+  "images/FoxyAI_Image_bf78ebfb-dc4e-4fce-86c0-d5ad3507a390.jpeg": {
+   "twitter": "2026-10-11"
   },
-  "rejected": {
-    "images/FoxyAI_Image_54bc88d1-ab51-4671-9d2e-2063558b13e1.jpeg": "three arms (Mack flagged). Never post.",
-    "images/FoxyAI_Image_cbf24131-1fd7-48e9-aabc-9190dc2bae63.jpeg": "garbled monogram logo on cap (AI tell). 2026-10-12 check.",
-    "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_3.jpeg": "stubby, oddly smooth hand on pool edge (AI tell). 2026-10-12 check.",
-    "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_1.jpeg": "face doesn't match Mack (looks like a different person). 2026-10-13 check.",
-    "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_4.jpeg": "swimsuit makes no sense (half one-piece, half bikini at the back). 2026-10-13 check."
+  "images/FoxyAI_Image_72f64baf-be75-4fae-b197-2e8dfbbd0e69.jpeg": {
+   "twitter": "2026-10-12"
   },
-  "held": {
-    "images/FoxyAI_Image_899dcc33-5616-45bf-b4d0-1747315ddbf7.jpeg": "borderline pose (spread-leg squat / crotch-centered low angle); not posting unless Mack OKs",
-    "images/FoxyAI_Image_9df11984-ad61-4187-8c27-1765d52d694c.jpeg": "borderline pose (spread-leg squat / crotch-centered low angle); not posting unless Mack OKs",
-    "images/FoxyAI_Image_f6550995-30b6-42fa-8f0c-0c89b08fb970.jpeg": "borderline pose (spread-leg squat / crotch-centered low angle); not posting unless Mack OKs",
-    "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_1.jpeg": "borderline pose (wide stance, crotch-centered low angle); not posting unless Mack OKs. 2026-10-14 check."
+  "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_2.jpeg": {
+   "twitter": "2026-10-12"
+  },
+  "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_4.jpeg": {
+   "twitter": "2026-10-12"
+  },
+  "images/FoxyAI_Image_f7eba806-fd73-4001-ab53-24feecb46a58.jpeg": {
+   "twitter": "2026-10-12"
+  },
+  "images/FoxyAI_Image_13fb99ef-c154-4018-b74e-aea63aa6a3a0.jpeg": {
+   "twitter": "2026-10-13"
+  },
+  "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_1.jpeg": {
+   "twitter": "2026-10-13"
+  },
+  "images/FoxyAI_Image_eadf1519-115b-4866-9a07-23d1c444e6b9.jpeg": {
+   "twitter": "2026-10-13"
+  },
+  "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_2.jpeg": {
+   "twitter": "2026-10-14"
+  },
+  "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_4.jpeg": {
+   "twitter": "2026-10-14"
+  },
+  "images/FoxyAI_Image_0168ad5c-8370-4b03-82f7-05f24c8e67bf.jpeg": {
+   "twitter": "2026-10-14"
+  },
+  "images/FoxyAI_Image_4fc4ca74-5f51-494d-86f4-e211fef08da5.jpeg": {
+   "twitter": "2026-10-14"
+  },
+  "images/FoxyAI_Image_9b53826b-2d7e-4221-9ce0-902c0f807ab9.jpeg": {
+   "twitter": "2026-10-15"
+  },
+  "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_2.jpeg": {
+   "twitter": "2026-10-15"
+  },
+  "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_4.jpeg": {
+   "twitter": "2026-10-16"
+  },
+  "images/FoxyAI_Image_81070d43-c22b-4f6a-9c1b-236a675761df.jpeg": {
+   "twitter": "2026-10-15"
+  },
+  "images/FoxyAI_Image_24037b36-4633-4923-8798-78e5995c1c58.jpeg": {
+   "twitter": "2026-10-16"
+  },
+  "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_2.jpeg": {
+   "twitter": "2026-10-16"
+  },
+  "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_3.jpeg": {
+   "twitter": "2026-10-17"
+  },
+  "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_1.jpeg": {
+   "twitter": "2026-10-17"
+  },
+  "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_3.jpeg": {
+   "twitter": "2026-10-17"
+  },
+  "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_2.jpeg": {
+   "twitter": "2026-10-17"
+  },
+  "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_3.jpeg": {
+   "twitter": "2026-10-18"
+  },
+  "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_5.jpeg": {
+   "twitter": "2026-10-18"
+  },
+  "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_4.jpeg": {
+   "twitter": "2026-10-18"
+  },
+  "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_5.jpeg": {
+   "twitter": "2026-10-18"
+  },
+  "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_1.jpeg": {
+   "twitter": "2026-10-19"
+  },
+  "images/FoxyAI_Image_6ff2809d-ac8d-4023-b969-d87af6e5de90.jpeg": {
+   "twitter": "2026-10-19"
+  },
+  "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_5.jpeg": {
+   "twitter": "2026-10-19"
+  },
+  "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_5.jpeg": {
+   "twitter": "2026-10-20"
+  },
+  "images/FoxyAI_Image_ae2c8b72-0d17-46ac-a7f7-60ce29efb309.jpeg": {
+   "twitter": "2026-10-20"
+  },
+  "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_3.jpeg": {
+   "twitter": "2026-10-20"
+  },
+  "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_5.jpeg": {
+   "twitter": "2026-10-21"
   }
+ },
+ "rejected": {
+  "images/FoxyAI_Image_54bc88d1-ab51-4671-9d2e-2063558b13e1.jpeg": "three arms (Mack flagged). Never post.",
+  "images/FoxyAI_Image_cbf24131-1fd7-48e9-aabc-9190dc2bae63.jpeg": "garbled monogram logo on cap (AI tell). 2026-10-12 check.",
+  "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_3.jpeg": "stubby, oddly smooth hand on pool edge (AI tell). 2026-10-12 check.",
+  "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_1.jpeg": "face doesn't match Mack (looks like a different person). 2026-10-13 check.",
+  "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_4.jpeg": "swimsuit makes no sense (half one-piece, half bikini at the back). 2026-10-13 check."
+ },
+ "held": {
+  "images/FoxyAI_Image_899dcc33-5616-45bf-b4d0-1747315ddbf7.jpeg": "borderline pose (spread-leg squat / crotch-centered low angle); not posting unless Mack OKs",
+  "images/FoxyAI_Image_9df11984-ad61-4187-8c27-1765d52d694c.jpeg": "borderline pose (spread-leg squat / crotch-centered low angle); not posting unless Mack OKs",
+  "images/FoxyAI_Image_f6550995-30b6-42fa-8f0c-0c89b08fb970.jpeg": "borderline pose (spread-leg squat / crotch-centered low angle); not posting unless Mack OKs",
+  "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_1.jpeg": "borderline pose (wide stance, crotch-centered low angle); not posting unless Mack OKs. 2026-10-14 check."
+ }
 }
