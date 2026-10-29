@@ -1,359 +1,603 @@
 {
-  "note": "Scheduled and published posts. Times Mountain.",
-  "posts": [
-    {
-      "date": "2026-10-11",
-      "time_mt": "23:19",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_54bc88d1-ab51-4671-9d2e-2063558b13e1.jpeg",
-      "caption": "foil wrapped for freshness",
-      "zernio_post_id": "6acc6de1dff7100bf53278cc",
-      "status": "deleted (three arms)"
-    },
-    {
-      "date": "2026-10-11",
-      "time_mt": "23:26",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_bf78ebfb-dc4e-4fce-86c0-d5ad3507a390.jpeg",
-      "caption": "did one squat and took 40 pics",
-      "zernio_post_id": "6acc6f956b3b43783a47eb58",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-12",
-      "time_mt": "09:11",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_72f64baf-be75-4fae-b197-2e8dfbbd0e69.jpeg",
-      "images": [
-        "images/FoxyAI_Image_72f64baf-be75-4fae-b197-2e8dfbbd0e69.jpeg"
-      ],
-      "caption": "my trainer said no phones. he's not here",
-      "zernio_post_id": "6acce16efa483007c3c67294",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-12",
-      "time_mt": "14:06",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_2.jpeg",
-        "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_4.jpeg"
-      ],
-      "caption": "nautical but nice",
-      "zernio_post_id": "6acce1756162c9c38448a0cc",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-12",
-      "time_mt": "20:40",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_f7eba806-fd73-4001-ab53-24feecb46a58.jpeg",
-      "images": [
-        "images/FoxyAI_Image_f7eba806-fd73-4001-ab53-24feecb46a58.jpeg"
-      ],
-      "caption": "carb loading for absolutely nothing",
-      "zernio_post_id": "6acce179fa483007c3c67aa5",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-13",
-      "time_mt": "07:47",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_13fb99ef-c154-4018-b74e-aea63aa6a3a0.jpeg",
-      "images": [
-        "images/FoxyAI_Image_13fb99ef-c154-4018-b74e-aea63aa6a3a0.jpeg"
-      ],
-      "caption": "currently 40% sunscreen, 60% sand",
-      "zernio_post_id": "6acce17c8c1af12cc7cb75a8",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-13",
-      "time_mt": "13:35",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_1.jpeg",
-      "images": [
-        "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_1.jpeg"
-      ],
-      "caption": "caught you looking (i was also looking)",
-      "zernio_post_id": "6acce17fc7b7f7079650ba5c",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-13",
-      "time_mt": "19:53",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_eadf1519-115b-4866-9a07-23d1c444e6b9.jpeg",
-      "images": [
-        "images/FoxyAI_Image_eadf1519-115b-4866-9a07-23d1c444e6b9.jpeg"
-      ],
-      "caption": "hydrating (it's iced coffee)",
-      "zernio_post_id": "6acce1828c1af12cc7cb75c4",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-14",
-      "time_mt": "07:35",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_2.jpeg",
-        "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_4.jpeg"
-      ],
-      "caption": "red flag but make it a bikini",
-      "zernio_post_id": "6acce18546638d1ae864d151",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-14",
-      "time_mt": "14:21",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_0168ad5c-8370-4b03-82f7-05f24c8e67bf.jpeg",
-      "images": [
-        "images/FoxyAI_Image_0168ad5c-8370-4b03-82f7-05f24c8e67bf.jpeg"
-      ],
-      "caption": "stuck in the doorway, please send snacks",
-      "zernio_post_id": "6acce1886162c9c38448a0dd",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-14",
-      "time_mt": "20:15",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_4fc4ca74-5f51-494d-86f4-e211fef08da5.jpeg",
-      "images": [
-        "images/FoxyAI_Image_4fc4ca74-5f51-494d-86f4-e211fef08da5.jpeg"
-      ],
-      "caption": "crocheted by hand. not my hand",
-      "zernio_post_id": "6acce18bc7b7f7079650ba86",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-15",
-      "time_mt": "07:52",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_9b53826b-2d7e-4221-9ce0-902c0f807ab9.jpeg",
-      "images": [
-        "images/FoxyAI_Image_9b53826b-2d7e-4221-9ce0-902c0f807ab9.jpeg"
-      ],
-      "caption": "soup of the day",
-      "zernio_post_id": "6acce18e6162c9c38448a0e1",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-15",
-      "time_mt": "13:48",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_2.jpeg",
-      "images": [
-        "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_2.jpeg"
-      ],
-      "caption": "walking like i didn't just trip on that step",
-      "zernio_post_id": "6acce1c1c7b7f7079650bb25",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-15",
-      "time_mt": "20:12",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_81070d43-c22b-4f6a-9c1b-236a675761df.jpeg",
-      "caption": "salty but in a fun way",
-      "zernio_post_id": "6acce35ea4f2de8d8c68ddb4",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-16",
-      "time_mt": "07:41",
-      "platform": "twitter",
-      "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_4.jpeg",
-      "images": [
-        "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_4.jpeg"
-      ],
-      "caption": "do not disturb unless you're bringing a refill",
-      "zernio_post_id": "6acce1d900fb8e434f406bfa",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-16",
-      "time_mt": "14:27",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_24037b36-4633-4923-8798-78e5995c1c58.jpeg"
-      ],
-      "caption": "checkout's at 11. we'll see",
-      "zernio_post_id": "6ace24649307030a7d909cfd",
-      "status": "published",
-      "image": "images/FoxyAI_Image_24037b36-4633-4923-8798-78e5995c1c58.jpeg"
-    },
-    {
-      "date": "2026-10-16",
-      "time_mt": "20:48",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_2.jpeg"
-      ],
-      "caption": "pool closes at 10. allegedly",
-      "zernio_post_id": "6ace24679307030a7d909d01",
-      "status": "published",
-      "image": "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_2.jpeg"
-    },
-    {
-      "date": "2026-10-17",
-      "time_mt": "07:58",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_3.jpeg"
-      ],
-      "caption": "spotted: me",
-      "zernio_post_id": "6ace2468784a4a358c449d0a",
-      "status": "published",
-      "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_3.jpeg"
-    },
-    {
-      "date": "2026-10-17",
-      "time_mt": "13:52",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_1.jpeg",
-        "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_3.jpeg"
-      ],
-      "caption": "sat on a rock for 3 hours. would not recommend",
-      "zernio_post_id": "6ace246b1732f8b3cdf0316a",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-17",
-      "time_mt": "20:19",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_2.jpeg"
-      ],
-      "caption": "surf lesson went great. never stood up",
-      "zernio_post_id": "6ace246cf1197cbfd105d6f3",
-      "status": "published",
-      "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_2.jpeg"
-    },
-    {
-      "date": "2026-10-18",
-      "time_mt": "07:44",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_3.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_3.jpeg",
-      "caption": "leaning on this tree like it owes me money",
-      "zernio_post_id": "6acf76cf20c8c5bcbf54d4d4",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-18",
-      "time_mt": "14:09",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_5.jpeg",
-        "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_4.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_5.jpeg",
-      "caption": "dipped one toe in. need a nap",
-      "zernio_post_id": "6acf76d420c8c5bcbf54d4e6",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-18",
-      "time_mt": "20:37",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_5.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_5.jpeg",
-      "caption": "sunglasses at night. the pool is very bright",
-      "zernio_post_id": "6acf76d6ede587bc5016a81a",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-19",
-      "time_mt": "07:56",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_1.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_1.jpeg",
-      "caption": "paddleboarding (lying down counts)",
-      "zernio_post_id": "6acf76d8ede587bc5016a823",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-19",
-      "time_mt": "13:33",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_6ff2809d-ac8d-4023-b969-d87af6e5de90.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_6ff2809d-ac8d-4023-b969-d87af6e5de90.jpeg",
-      "caption": "hand on head bc i forgot why i came outside",
-      "zernio_post_id": "6acf76d9ede587bc5016a830",
-      "status": "published",
-      "note": "cropped 9:16 to 4:5"
-    },
-    {
-      "date": "2026-10-19",
-      "time_mt": "20:22",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_5.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_5.jpeg",
-      "caption": "drew you a heart. the tide gets a vote",
-      "zernio_post_id": "6acf76db4d84fdf02cf3c6cc",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-20",
-      "time_mt": "07:49",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_5.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_5.jpeg",
-      "caption": "golden hour, golden retriever energy",
-      "zernio_post_id": "6ad0c80849edb9484d418dfe",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-20",
-      "time_mt": "14:16",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_ae2c8b72-0d17-46ac-a7f7-60ce29efb309.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_ae2c8b72-0d17-46ac-a7f7-60ce29efb309.jpeg",
-      "caption": "this is my \"did i leave the oven on\" pose",
-      "zernio_post_id": "6ad0c80ab72afb4123d7bd91",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-20",
-      "time_mt": "20:33",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_3.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_3.jpeg",
-      "caption": "waiting for the ferry or a compliment, whichever's first",
-      "zernio_post_id": "6ad0c80c49edb9484d418e12",
-      "status": "published"
-    },
-    {
-      "date": "2026-10-21",
-      "time_mt": "07:47",
-      "platform": "twitter",
-      "images": [
-        "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_5.jpeg"
-      ],
-      "image": "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_5.jpeg",
-      "caption": "checking if my sunburn's even. it's not",
-      "zernio_post_id": "6ad219f5be5ed9a7e922f803",
-      "status": "published",
-      "note": "last unposted image in the library"
-    }
-  ]
+ "note": "Scheduled and published posts. Times Mountain.",
+ "posts": [
+  {
+   "date": "2026-10-11",
+   "time_mt": "23:19",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_54bc88d1-ab51-4671-9d2e-2063558b13e1.jpeg",
+   "caption": "foil wrapped for freshness",
+   "zernio_post_id": "6acc6de1dff7100bf53278cc",
+   "status": "deleted (three arms)"
+  },
+  {
+   "date": "2026-10-11",
+   "time_mt": "23:26",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_bf78ebfb-dc4e-4fce-86c0-d5ad3507a390.jpeg",
+   "caption": "did one squat and took 40 pics",
+   "zernio_post_id": "6acc6f956b3b43783a47eb58",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-12",
+   "time_mt": "09:11",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_72f64baf-be75-4fae-b197-2e8dfbbd0e69.jpeg",
+   "images": [
+    "images/FoxyAI_Image_72f64baf-be75-4fae-b197-2e8dfbbd0e69.jpeg"
+   ],
+   "caption": "my trainer said no phones. he's not here",
+   "zernio_post_id": "6acce16efa483007c3c67294",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-12",
+   "time_mt": "14:06",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_2.jpeg",
+    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_4.jpeg"
+   ],
+   "caption": "nautical but nice",
+   "zernio_post_id": "6acce1756162c9c38448a0cc",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-12",
+   "time_mt": "20:40",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_f7eba806-fd73-4001-ab53-24feecb46a58.jpeg",
+   "images": [
+    "images/FoxyAI_Image_f7eba806-fd73-4001-ab53-24feecb46a58.jpeg"
+   ],
+   "caption": "carb loading for absolutely nothing",
+   "zernio_post_id": "6acce179fa483007c3c67aa5",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-13",
+   "time_mt": "07:47",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_13fb99ef-c154-4018-b74e-aea63aa6a3a0.jpeg",
+   "images": [
+    "images/FoxyAI_Image_13fb99ef-c154-4018-b74e-aea63aa6a3a0.jpeg"
+   ],
+   "caption": "currently 40% sunscreen, 60% sand",
+   "zernio_post_id": "6acce17c8c1af12cc7cb75a8",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-13",
+   "time_mt": "13:35",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_1.jpeg",
+   "images": [
+    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_1.jpeg"
+   ],
+   "caption": "caught you looking (i was also looking)",
+   "zernio_post_id": "6acce17fc7b7f7079650ba5c",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-13",
+   "time_mt": "19:53",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_eadf1519-115b-4866-9a07-23d1c444e6b9.jpeg",
+   "images": [
+    "images/FoxyAI_Image_eadf1519-115b-4866-9a07-23d1c444e6b9.jpeg"
+   ],
+   "caption": "hydrating (it's iced coffee)",
+   "zernio_post_id": "6acce1828c1af12cc7cb75c4",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-14",
+   "time_mt": "07:35",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_2.jpeg",
+    "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_4.jpeg"
+   ],
+   "caption": "red flag but make it a bikini",
+   "zernio_post_id": "6acce18546638d1ae864d151",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-14",
+   "time_mt": "14:21",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_0168ad5c-8370-4b03-82f7-05f24c8e67bf.jpeg",
+   "images": [
+    "images/FoxyAI_Image_0168ad5c-8370-4b03-82f7-05f24c8e67bf.jpeg"
+   ],
+   "caption": "stuck in the doorway, please send snacks",
+   "zernio_post_id": "6acce1886162c9c38448a0dd",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-14",
+   "time_mt": "20:15",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_4fc4ca74-5f51-494d-86f4-e211fef08da5.jpeg",
+   "images": [
+    "images/FoxyAI_Image_4fc4ca74-5f51-494d-86f4-e211fef08da5.jpeg"
+   ],
+   "caption": "crocheted by hand. not my hand",
+   "zernio_post_id": "6acce18bc7b7f7079650ba86",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-15",
+   "time_mt": "07:52",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_9b53826b-2d7e-4221-9ce0-902c0f807ab9.jpeg",
+   "images": [
+    "images/FoxyAI_Image_9b53826b-2d7e-4221-9ce0-902c0f807ab9.jpeg"
+   ],
+   "caption": "soup of the day",
+   "zernio_post_id": "6acce18e6162c9c38448a0e1",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-15",
+   "time_mt": "13:48",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_2.jpeg",
+   "images": [
+    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_2.jpeg"
+   ],
+   "caption": "walking like i didn't just trip on that step",
+   "zernio_post_id": "6acce1c1c7b7f7079650bb25",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-15",
+   "time_mt": "20:12",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_81070d43-c22b-4f6a-9c1b-236a675761df.jpeg",
+   "caption": "salty but in a fun way",
+   "zernio_post_id": "6acce35ea4f2de8d8c68ddb4",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-16",
+   "time_mt": "07:41",
+   "platform": "twitter",
+   "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_4.jpeg",
+   "images": [
+    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_4.jpeg"
+   ],
+   "caption": "do not disturb unless you're bringing a refill",
+   "zernio_post_id": "6acce1d900fb8e434f406bfa",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-16",
+   "time_mt": "14:27",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_24037b36-4633-4923-8798-78e5995c1c58.jpeg"
+   ],
+   "caption": "checkout's at 11. we'll see",
+   "zernio_post_id": "6ace24649307030a7d909cfd",
+   "status": "published",
+   "image": "images/FoxyAI_Image_24037b36-4633-4923-8798-78e5995c1c58.jpeg"
+  },
+  {
+   "date": "2026-10-16",
+   "time_mt": "20:48",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_2.jpeg"
+   ],
+   "caption": "pool closes at 10. allegedly",
+   "zernio_post_id": "6ace24679307030a7d909d01",
+   "status": "published",
+   "image": "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_2.jpeg"
+  },
+  {
+   "date": "2026-10-17",
+   "time_mt": "07:58",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_3.jpeg"
+   ],
+   "caption": "spotted: me",
+   "zernio_post_id": "6ace2468784a4a358c449d0a",
+   "status": "published",
+   "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_3.jpeg"
+  },
+  {
+   "date": "2026-10-17",
+   "time_mt": "13:52",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_1.jpeg",
+    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_3.jpeg"
+   ],
+   "caption": "sat on a rock for 3 hours. would not recommend",
+   "zernio_post_id": "6ace246b1732f8b3cdf0316a",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-17",
+   "time_mt": "20:19",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_2.jpeg"
+   ],
+   "caption": "surf lesson went great. never stood up",
+   "zernio_post_id": "6ace246cf1197cbfd105d6f3",
+   "status": "published",
+   "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_2.jpeg"
+  },
+  {
+   "date": "2026-10-18",
+   "time_mt": "07:44",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_3.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_3.jpeg",
+   "caption": "leaning on this tree like it owes me money",
+   "zernio_post_id": "6acf76cf20c8c5bcbf54d4d4",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-18",
+   "time_mt": "14:09",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_5.jpeg",
+    "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_4.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_9dfe875a-e2c4-470a-9f58-beeb8590966b_5.jpeg",
+   "caption": "dipped one toe in. need a nap",
+   "zernio_post_id": "6acf76d420c8c5bcbf54d4e6",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-18",
+   "time_mt": "20:37",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_5.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_5.jpeg",
+   "caption": "sunglasses at night. the pool is very bright",
+   "zernio_post_id": "6acf76d6ede587bc5016a81a",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-19",
+   "time_mt": "07:56",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_1.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_1.jpeg",
+   "caption": "paddleboarding (lying down counts)",
+   "zernio_post_id": "6acf76d8ede587bc5016a823",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-19",
+   "time_mt": "13:33",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_6ff2809d-ac8d-4023-b969-d87af6e5de90.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_6ff2809d-ac8d-4023-b969-d87af6e5de90.jpeg",
+   "caption": "hand on head bc i forgot why i came outside",
+   "zernio_post_id": "6acf76d9ede587bc5016a830",
+   "status": "published",
+   "note": "cropped 9:16 to 4:5"
+  },
+  {
+   "date": "2026-10-19",
+   "time_mt": "20:22",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_5.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_5.jpeg",
+   "caption": "drew you a heart. the tide gets a vote",
+   "zernio_post_id": "6acf76db4d84fdf02cf3c6cc",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-20",
+   "time_mt": "07:49",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_5.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_b41ba81e-9313-4bc8-84c4-f71c490ea2d8_5.jpeg",
+   "caption": "golden hour, golden retriever energy",
+   "zernio_post_id": "6ad0c80849edb9484d418dfe",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-20",
+   "time_mt": "14:16",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_ae2c8b72-0d17-46ac-a7f7-60ce29efb309.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_ae2c8b72-0d17-46ac-a7f7-60ce29efb309.jpeg",
+   "caption": "this is my \"did i leave the oven on\" pose",
+   "zernio_post_id": "6ad0c80ab72afb4123d7bd91",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-20",
+   "time_mt": "20:33",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_3.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_e77daf70-4fce-4540-af99-01e0d9149ba4_3.jpeg",
+   "caption": "waiting for the ferry or a compliment, whichever's first",
+   "zernio_post_id": "6ad0c80c49edb9484d418e12",
+   "status": "published"
+  },
+  {
+   "date": "2026-10-21",
+   "time_mt": "07:47",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_5.jpeg"
+   ],
+   "image": "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_5.jpeg",
+   "caption": "checking if my sunburn's even. it's not",
+   "zernio_post_id": "6ad219f5be5ed9a7e922f803",
+   "status": "published",
+   "note": "last unposted image in the library"
+  },
+  {
+   "date": "2026-10-29",
+   "time_mt": "20:14",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_77550d6c-92f4-4e5a-8484-0a0369f160c9.jpeg",
+    "images/FoxyAI_Image_c1b90ea0-e0e3-4c78-848d-3319f3743d39.jpeg"
+   ],
+   "caption": "glow up (literal, there are led strips)",
+   "zernio_post_id": "6ae3ad2f249ee0b1314c65e3",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-29",
+   "time_mt": "20:14",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_77550d6c-92f4-4e5a-8484-0a0369f160c9.jpeg",
+    "images/FoxyAI_Image_c1b90ea0-e0e3-4c78-848d-3319f3743d39.jpeg"
+   ],
+   "caption": "glow up (literal, there are led strips)",
+   "zernio_post_id": "6ae3ad2f249ee0b1314c65e3",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-30",
+   "time_mt": "07:41",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_2.jpeg",
+    "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_1.jpeg",
+    "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_3.jpeg",
+    "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_5.jpeg"
+   ],
+   "caption": "shades on so you can't tell i'm looking",
+   "zernio_post_id": "6ae3ad436924b048323b4aed",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-30",
+   "time_mt": "07:41",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_2.jpeg",
+    "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_1.jpeg",
+    "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_3.jpeg",
+    "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_5.jpeg"
+   ],
+   "caption": "shades on so you can't tell i'm looking",
+   "zernio_post_id": "6ae3ad436924b048323b4aed",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-30",
+   "time_mt": "20:52",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_fe0d6f54-3786-4dca-be62-818d062d5c90.jpeg",
+    "images/FoxyAI_Image_d31e09e5-8e35-46a3-8ac9-cb4c497ef5ac.jpeg"
+   ],
+   "caption": "mwah. that's it. that's the post",
+   "zernio_post_id": "6ae3ad47249ee0b1314c668a",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-30",
+   "time_mt": "20:52",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_fe0d6f54-3786-4dca-be62-818d062d5c90.jpeg",
+    "images/FoxyAI_Image_d31e09e5-8e35-46a3-8ac9-cb4c497ef5ac.jpeg"
+   ],
+   "caption": "mwah. that's it. that's the post",
+   "zernio_post_id": "6ae3ad47249ee0b1314c668a",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-31",
+   "time_mt": "07:58",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_056cdafe-7163-4e75-bf9c-ddaf42945932.jpeg",
+    "images/FoxyAI_Image_8bbf9597-3f7c-4e63-b617-96cbfa8d7d9e.jpeg",
+    "images/FoxyAI_Image_2bae9087-b9ee-4382-ab61-ceb5e7bc7597.jpeg",
+    "images/FoxyAI_Image_f3f8ada4-6262-410b-abef-2831d7f30ea5.jpeg"
+   ],
+   "caption": "palm reading says you're about to double tap",
+   "zernio_post_id": "6ae3ad4b249ee0b1314c66ce",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-31",
+   "time_mt": "07:58",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_056cdafe-7163-4e75-bf9c-ddaf42945932.jpeg",
+    "images/FoxyAI_Image_8bbf9597-3f7c-4e63-b617-96cbfa8d7d9e.jpeg",
+    "images/FoxyAI_Image_2bae9087-b9ee-4382-ab61-ceb5e7bc7597.jpeg",
+    "images/FoxyAI_Image_f3f8ada4-6262-410b-abef-2831d7f30ea5.jpeg"
+   ],
+   "caption": "palm reading says you're about to double tap",
+   "zernio_post_id": "6ae3ad4b249ee0b1314c66ce",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-31",
+   "time_mt": "19:46",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_6befeb38-16f9-4543-a06c-0d7dedb7ed01.jpeg",
+    "images/FoxyAI_Image_021b7c87-f890-4f12-9fde-012a2d6b6f11.jpeg"
+   ],
+   "caption": "dressed as a houseplant for halloween",
+   "zernio_post_id": "6ae3ad516924b048323b4b7c",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-31",
+   "time_mt": "19:46",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_6befeb38-16f9-4543-a06c-0d7dedb7ed01.jpeg",
+    "images/FoxyAI_Image_021b7c87-f890-4f12-9fde-012a2d6b6f11.jpeg"
+   ],
+   "caption": "dressed as a houseplant for halloween",
+   "zernio_post_id": "6ae3ad516924b048323b4b7c",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-01",
+   "time_mt": "07:36",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_4e48eb87-915e-4c93-b413-ed11a16162ed.jpeg",
+    "images/FoxyAI_Image_171976d7-d1b8-4944-82f4-76fac80fc3bd.jpeg"
+   ],
+   "caption": "windy city said no hair today",
+   "zernio_post_id": "6ae3ad5d6924b048323b4c13",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-01",
+   "time_mt": "07:36",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_4e48eb87-915e-4c93-b413-ed11a16162ed.jpeg",
+    "images/FoxyAI_Image_171976d7-d1b8-4944-82f4-76fac80fc3bd.jpeg"
+   ],
+   "caption": "windy city said no hair today",
+   "zernio_post_id": "6ae3ad5d6924b048323b4c13",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-01",
+   "time_mt": "20:23",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_55502d67-5d50-44ce-a864-22f72ec05263.jpeg"
+   ],
+   "caption": "backseat driver (i only give compliments)",
+   "zernio_post_id": "6ae3ad606924b048323b4c40",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-01",
+   "time_mt": "20:23",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_55502d67-5d50-44ce-a864-22f72ec05263.jpeg"
+   ],
+   "caption": "backseat driver (i only give compliments)",
+   "zernio_post_id": "6ae3ad606924b048323b4c40",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-02",
+   "time_mt": "08:07",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_eb660f97-63f5-492f-9fad-297527970b10.jpeg",
+    "images/FoxyAI_Image_68631172-39f1-4676-b14f-62ad3485e396.jpeg"
+   ],
+   "caption": "never bored. occasionally surfboard",
+   "zernio_post_id": "6ae3ad636924b048323b4c55",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-02",
+   "time_mt": "08:07",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_eb660f97-63f5-492f-9fad-297527970b10.jpeg",
+    "images/FoxyAI_Image_68631172-39f1-4676-b14f-62ad3485e396.jpeg"
+   ],
+   "caption": "never bored. occasionally surfboard",
+   "zernio_post_id": "6ae3ad636924b048323b4c55",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-02",
+   "time_mt": "21:05",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_7e2fddc2-eefc-4725-af7a-bdfbe8cb0ac9.jpeg",
+    "images/FoxyAI_Image_5be78bed-814e-40cd-9d60-311a69567a40.jpeg"
+   ],
+   "caption": "sequins at the beach. subtlety was never my thing",
+   "zernio_post_id": "6ae3ad676924b048323b4c82",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-02",
+   "time_mt": "21:05",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_7e2fddc2-eefc-4725-af7a-bdfbe8cb0ac9.jpeg",
+    "images/FoxyAI_Image_5be78bed-814e-40cd-9d60-311a69567a40.jpeg"
+   ],
+   "caption": "sequins at the beach. subtlety was never my thing",
+   "zernio_post_id": "6ae3ad676924b048323b4c82",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-03",
+   "time_mt": "07:49",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_17e274a6-00ea-4e43-a53c-1c30ab991613.jpeg"
+   ],
+   "caption": "lying on the gym floor until it counts as cardio",
+   "zernio_post_id": "6ae3ad6a249ee0b1314c6750",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-03",
+   "time_mt": "07:49",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_17e274a6-00ea-4e43-a53c-1c30ab991613.jpeg"
+   ],
+   "caption": "lying on the gym floor until it counts as cardio",
+   "zernio_post_id": "6ae3ad6a249ee0b1314c6750",
+   "status": "scheduled"
+  }
+ ]
 }

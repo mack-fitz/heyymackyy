@@ -4,9 +4,9 @@ Scheduled runs read this whole file first. This account is separate from the gol
 different Zernio profile, different repo, different voice. Never cross-post or mention the golf accounts.
 
 ## Accounts (Zernio)
-- X @heyymackyy: account ID 6acc660deb5aada570f94a4e (live now)
-- Instagram: not created yet. When an Instagram account appears in Zernio on the same profile as
-  @heyymackyy (check accounts_list), start posting there too (rules below). Do not use @moremackygolfs.
+- X @heyymackyy: account ID 6acc660deb5aada570f94a4e
+- Instagram @heyymackyyy: account ID 6ae3a47ccb3d8f16f0ac324e (connected Oct 29). Same Zernio profile
+  6acc65bd97b2d869b209c7c9. Never use or mention @moremackygolfs, @mackygolfs, @mackthegolfer or mackyyaps.
 
 ## What the content is
 - AI images of Mack (made with FoxyAI), mostly bikini and gym wear, mostly 4:5 portrait.
@@ -27,13 +27,19 @@ different Zernio profile, different repo, different voice. Never cross-post or m
 - Never explicit. If an image looks explicit (nudity, sexual pose), do not post it; list it in the
   message for Mack.
 
-## Pace and timing (Mountain time)
-- X: 3 posts a day: morning 7:30-8:15 (= 9:30-10:15 Eastern, catches the East Coast morning), afternoon 1:00-3:00, evening 7:30-9:30. Vary minutes.
-  Mostly single images; about one post a day can be 2-4 images from the same set.
-- Instagram (once it exists): 2 feed posts a day (mix of carousels from sets and singles, 4:5),
-  plus 1-3 stories a day from leftover singles. Set the AI-generated label on every Instagram post
-  (is_ai_generated / AI info) because Instagram expects disclosure of realistic AI images.
-- Don't reuse an image on the same platform within 30 days. Prefer images never posted.
+## Pace and timing (Mountain time) — Mack, Oct 29 (replaces the old 3/day)
+- 2 posts a day on X and 2 a day on Instagram: morning 7:30-8:15 and evening 7:30-9:30. Vary minutes.
+- Each slot is the SAME post on X and Instagram: one Zernio post with both platforms, same caption
+  and media.
+- **Carousels:** images from the same set (same outfit / look / shoot, whether or not the file names
+  share a prefix) post together as ONE carousel post. Instagram up to 10 images, X up to 4 (if a set
+  has more than 4, give X the best 4 via customMedia). Prefer one carousel per matching set over
+  spreading a set across many posts. Every image in a carousel must pass the AI check; drop any that
+  fail (and drop one that breaks set consistency, e.g. different earrings).
+- Instagram AI label on every Instagram post: platformSpecificData {madeWithAi: true,
+  containsSyntheticMedia: true}.
+- Don't reuse an image on the same platform within 30 days. Prefer images never posted. Because each
+  slot posts to both, an image posted on X in the last 30 days can't be used even if it's new to IG.
 - Keep at least 3 days of posts scheduled ahead when there's enough content.
 
 ## X settings
