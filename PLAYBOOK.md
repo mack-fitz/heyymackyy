@@ -27,10 +27,12 @@ different Zernio profile, different repo, different voice. Never cross-post or m
 - Never explicit. If an image looks explicit (nudity, sexual pose), do not post it; list it in the
   message for Mack.
 
-## Pace and timing (Mountain time) — Mack, Oct 29 (replaces the old 3/day)
-- 2 posts a day on X and 2 a day on Instagram: morning 7:30-8:15 and evening 7:30-9:30. Vary minutes.
-- Each slot is the SAME post on X and Instagram: one Zernio post with both platforms, same caption
-  and media.
+## Pace and timing (Mountain time) — Mack, Oct 29, FINAL (replaces 3/day and 2/day)
+- ONE post a day, in the evening between 6:00pm and 8:00pm MT. Vary the minute. No morning posts.
+  If more than one post per day per account is ever scheduled, keep the evening one and delete the
+  extras so those images go back in the pool.
+- The daily post is the SAME post on X and Instagram: one Zernio post with both platforms, same
+  caption and media.
 - **Carousels:** images from the same set (same outfit / look / shoot, whether or not the file names
   share a prefix) post together as ONE carousel post. Instagram up to 10 images, X up to 4 (if a set
   has more than 4, give X the best 4 via customMedia). Prefer one carousel per matching set over
@@ -47,12 +49,12 @@ different Zernio profile, different repo, different voice. Never cross-post or m
   tell Mack.
 
 ## Fix it yourself (Mack's standing rule)
-Mack should never have to tell you to circle back. Every run, before messaging him:
+Mack should never have to tell you to circle back. Every run, before messaging her:
 - **Failed posts:** find them (posts_list_failed, and any post in this account's schedule whose
   status is failed/error). Fix the cause (re-encode or shrink media, swap a broken media URL for a
   pinned-commit raw URL, re-crop, shorten a caption) and reschedule into the next open slot, or the
   same slot if it hasn't passed. Retry transient errors once; if it fails again, change approach.
-- **Empty slots:** every slot for the next 3 days must have a post. Fill any gap.
+- **Empty slots:** every evening for the next 3 days must have a post. Fill any gap.
 - **Bad content:** anything that breaks the rules here (AI tells, wrong crop, cut mid-word, hook
   under the audio bar) gets replaced or re-edited before it goes out.
 - **Disconnected account / expired token:** this is the one thing you can't fix — tell Mack
