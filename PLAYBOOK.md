@@ -38,8 +38,28 @@ different Zernio profile, different repo, different voice. Never cross-post or m
   has more than 4, give X the best 4 via customMedia). Prefer one carousel per matching set over
   spreading a set across many posts. Every image in a carousel must pass the AI check; drop any that
   fail (and drop one that breaks set consistency, e.g. different earrings).
-- Instagram AI label on every Instagram post: platformSpecificData {madeWithAi: true,
-  containsSyntheticMedia: true}.
+- **No AI label on Instagram (Mack, Nov 3; replaces the earlier "AI label on every IG post" rule):**
+  never set madeWithAi / containsSyntheticMedia on heyymackyy Instagram posts (send them false or
+  leave them out), and clear them on any scheduled IG post you touch.
+- **Instagram = slideshow Reels, X = images (Mack, Nov 4; starts with the Nov 4 post).** Each daily
+  post stays ONE Zernio post with both platforms: X uses the post's images (mediaItems, carousel up
+  to 4); the Instagram entry gets `customMedia` = one video built from that post's images, which
+  Instagram publishes as a Reel (no contentType needed; platformSpecificData {shareToFeed: true}).
+  Build it with `python3 tools/reel.py out.mp4 img1 [img2 ...]`: 1080x1920 H.264 30fps, each image
+  fit to 9:16 over a blurred copy (no cropping of her face/body), gentle slow push-in, ~2.5-3 s per
+  image with 0.4 s crossfades (a single image runs 6 s), total ~5.5-10 s, no burned-in text.
+  Audio: if Dropbox `/abmclip/music` exists and has royalty-free tracks Mack added, relay one and pass
+  `--music track` (rotate; never the same track two days running; record the track in the
+  schedule.json entry as `music`; the script fades out the last 1.5 s). Otherwise silent (the
+  script adds a silent AAC track so Instagram accepts it). Never add music from anywhere else.
+  Upload: the workspace can't reach media.zernio.com, so use the mack-fitz/clips "zupload" workflow
+  (clips RULES.md / .github/workflows/zupload.yml): push the mp4(s) to a scratch branch
+  `scratch/heyymackyy-reels-<mmdd>` (never main; clean tree via hash-object + mktree + commit-tree),
+  get `media_get_media_presigned_url` (video/mp4, size) per file, push clips inbox/zupload.tsv lines
+  `<branch>\t<file>\t<uploadUrl>\tvideo/mp4`, wait for "zupload done" and HTTP 200 in
+  clips state/zupload_log.tsv, then set the IG customMedia to the publicUrl (Zernio copies it to
+  permanent storage when the post is saved). Verify with posts_get. If the upload fails, retry once
+  with a fresh presigned URL; if it still fails, post the images to IG as before and say so.
 - Don't reuse an image on the same platform within 30 days. Prefer images never posted. Because each
   slot posts to both, an image posted on X in the last 30 days can't be used even if it's new to IG.
 - Keep at least 3 days of posts scheduled ahead when there's enough content.
