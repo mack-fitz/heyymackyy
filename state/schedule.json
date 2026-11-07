@@ -697,7 +697,8 @@
    ],
    "caption": "windy city said no hair today",
    "zernio_post_id": "6ae4923d7b9830f979644cd9",
-   "status": "scheduled"
+   "status": "published",
+   "url": "https://twitter.com/i/web/status/2118888593112387649"
   },
   {
    "date": "2026-11-06",
@@ -709,11 +710,12 @@
    ],
    "caption": "windy city said no hair today",
    "zernio_post_id": "6ae4923d7b9830f979644cd9",
-   "status": "scheduled",
+   "status": "published",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1793774368266_d8353f4bd4c97baa_heyymackyy_reel_20261106.mp4",
    "music": null,
-   "ig_ai_label": false
+   "ig_ai_label": false,
+   "url": "https://www.instagram.com/reel/DfbE4cUiKRA/"
   },
   {
    "date": "2026-11-07",
