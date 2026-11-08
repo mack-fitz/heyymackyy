@@ -727,7 +727,7 @@
    ],
    "caption": "never bored. occasionally surfboard",
    "zernio_post_id": "6ae492404c3b8fe9c202edda",
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "date": "2026-11-07",
@@ -739,9 +739,37 @@
    ],
    "caption": "never bored. occasionally surfboard",
    "zernio_post_id": "6ae492404c3b8fe9c202edda",
-   "status": "scheduled",
+   "status": "published",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1793774368875_082d09630ab473f3_heyymackyy_reel_20261107.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-08",
+   "time_mt": "19:14",
+   "video": "abmclip/FoxyAI_Video_10d01993-ed1a-431b-9a58-bc0cfa954127.mp4",
+   "video_edit": "trimmed first 2.0 s (60 frames @30fps) so it opens in the hotel hallway; H.264 High CRF 16, 718x1280 30fps, original audio; 6.0 s",
+   "media_url": "https://media.zernio.com/media/1794121144572_7a920fd966598512_heyymackyy_hallway_20261108.mp4",
+   "caption": "pool's this way. probably",
+   "zernio_post_id": "6af01f72e9baf05d2c9a82ee",
+   "status": "scheduled",
+   "note": "Mack's video (Nov 8): first 2 s cut, starts in the hallway",
+   "platform": "twitter"
+  },
+  {
+   "date": "2026-11-08",
+   "time_mt": "19:14",
+   "video": "abmclip/FoxyAI_Video_10d01993-ed1a-431b-9a58-bc0cfa954127.mp4",
+   "video_edit": "trimmed first 2.0 s (60 frames @30fps) so it opens in the hotel hallway; H.264 High CRF 16, 718x1280 30fps, original audio; 6.0 s",
+   "media_url": "https://media.zernio.com/media/1794121144572_7a920fd966598512_heyymackyy_hallway_20261108.mp4",
+   "caption": "pool's this way. probably",
+   "zernio_post_id": "6af01f72e9baf05d2c9a82ee",
+   "status": "scheduled",
+   "note": "Mack's video (Nov 8): first 2 s cut, starts in the hallway",
+   "platform": "instagram",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794121144572_7a920fd966598512_heyymackyy_hallway_20261108.mp4",
    "music": null,
    "ig_ai_label": false
   }
