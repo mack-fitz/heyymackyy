@@ -191,6 +191,41 @@
   "video:FoxyAI_Video_10d01993-ed1a-431b-9a58-bc0cfa954127.mp4": {
    "twitter": "2026-11-08",
    "instagram": "2026-11-08"
+  },
+  "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_1.jpeg": {
+   "instagram": "2026-11-09",
+   "twitter": "2026-11-09"
+  },
+  "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_2.jpeg": {
+   "instagram": "2026-11-09"
+  },
+  "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_3.jpeg": {
+   "instagram": "2026-11-09",
+   "twitter": "2026-11-09"
+  },
+  "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_4.jpeg": {
+   "instagram": "2026-11-09",
+   "twitter": "2026-11-09"
+  },
+  "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_5.jpeg": {
+   "instagram": "2026-11-09",
+   "twitter": "2026-11-09"
+  },
+  "images/FoxyAI_Image_9001a849-568d-458c-9d58-9fb7e4a42049.jpeg": {
+   "instagram": "2026-11-10",
+   "twitter": "2026-11-10"
+  },
+  "images/FoxyAI_Image_e232c6a0-aab7-48c6-b437-667d57711a71.jpeg": {
+   "instagram": "2026-11-10",
+   "twitter": "2026-11-10"
+  },
+  "images/FoxyAI_Image_e48047ae-55b9-4374-b116-750d1548f374.jpeg": {
+   "instagram": "2026-11-11",
+   "twitter": "2026-11-11"
+  },
+  "images/FoxyAI_Image_edc9a607-81e0-43bb-b9fa-044693fc6cb0.jpeg": {
+   "instagram": "2026-11-11",
+   "twitter": "2026-11-11"
   }
  },
  "rejected": {
@@ -200,7 +235,8 @@
   "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_1.jpeg": "face doesn't match Mack (looks like a different person). 2026-10-13 check.",
   "images/FoxyAI_Image_db5bd107-c792-4723-8bdd-f9dc4afbe91c_4.jpeg": "swimsuit makes no sense (half one-piece, half bikini at the back). 2026-10-13 check.",
   "images/FoxyAI_Image_84ab5b5d-3175-432c-8330-443e07e77df6.jpeg": "garbled text on name necklace + mushy toes (AI tells). 2026-10-29 check.",
-  "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_4.jpeg": "earrings don't match the rest of the set (hoops vs studs in _1-_3); dropped from carousel. 2026-10-29 check."
+  "images/FoxyAI_Image_0d3d783d-f3ad-46f4-9ac0-050a16e860a4_4.jpeg": "earrings don't match the rest of the set (hoops vs studs in _1-_3); dropped from carousel. 2026-10-29 check.",
+  "images/FoxyAI_Image_03589b8f-0e73-4382-957f-7d8380649817.jpeg": "watch and bracelet swap wrists vs 02b03325 (same set); dropped for set consistency, 02b03325 posts solo. 2026-11-08 check."
  },
  "held": {
   "images/FoxyAI_Image_899dcc33-5616-45bf-b4d0-1747315ddbf7.jpeg": "borderline pose (spread-leg squat / crotch-centered low angle); not posting unless Mack OKs",
@@ -208,6 +244,8 @@
   "images/FoxyAI_Image_f6550995-30b6-42fa-8f0c-0c89b08fb970.jpeg": "borderline pose (spread-leg squat / crotch-centered low angle); not posting unless Mack OKs",
   "images/FoxyAI_Image_e4157a98-d165-4621-8164-7b6bf449e135_1.jpeg": "borderline pose (wide stance, crotch-centered low angle); not posting unless Mack OKs. 2026-10-14 check.",
   "images/FoxyAI_Image_02561f5a-d7b5-43ea-be98-9aa7a178a01a.jpeg": "borderline: crop top shows underboob; not posting unless Mack OKs. 2026-10-29 check.",
-  "images/FoxyAI_Image_11d361a0-e08c-4175-ab78-99a981937403.jpeg": "borderline: crop top shows underboob; not posting unless Mack OKs. 2026-10-29 check."
+  "images/FoxyAI_Image_11d361a0-e08c-4175-ab78-99a981937403.jpeg": "borderline: crop top shows underboob; not posting unless Mack OKs. 2026-10-29 check.",
+  "images/FoxyAI_Image_c19ebadd-a5fd-4afd-a2cd-f3857f5e1c2f_3.jpeg": "borderline pose (cross-legged, crotch-centered, thong); not posting unless Mack OKs. 2026-11-08 check.",
+  "images/FoxyAI_Image_c19ebadd-a5fd-4afd-a2cd-f3857f5e1c2f_5.jpeg": "borderline pose (kneeling, thumb hooked in thong strap); not posting unless Mack OKs. 2026-11-08 check."
  }
 }

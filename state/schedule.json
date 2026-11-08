@@ -772,6 +772,95 @@
    "ig_reel_url": "https://media.zernio.com/media/1794121144572_7a920fd966598512_heyymackyy_hallway_20261108.mp4",
    "music": null,
    "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-09",
+   "time_mt": "18:41",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_1.jpeg",
+    "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_3.jpeg",
+    "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_4.jpeg",
+    "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_5.jpeg"
+   ],
+   "caption": "outfit of the day: whatever was closest",
+   "zernio_post_id": "6af079f267545e65e688f3f3",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-09",
+   "time_mt": "18:41",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_1.jpeg",
+    "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_2.jpeg",
+    "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_3.jpeg",
+    "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_4.jpeg",
+    "images/FoxyAI_Image_600499c3-7031-4378-8113-4bdec61e3b24_5.jpeg"
+   ],
+   "caption": "outfit of the day: whatever was closest",
+   "zernio_post_id": "6af079f267545e65e688f3f3",
+   "status": "scheduled",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794144608235_df74e30505a957b4_heyymackyy_reel_20261109.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-10",
+   "time_mt": "19:23",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_9001a849-568d-458c-9d58-9fb7e4a42049.jpeg",
+    "images/FoxyAI_Image_e232c6a0-aab7-48c6-b437-667d57711a71.jpeg"
+   ],
+   "caption": "pajama pants are business casual if you believe hard enough",
+   "zernio_post_id": "6af079f422bd84744b3131dc",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-10",
+   "time_mt": "19:23",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_9001a849-568d-458c-9d58-9fb7e4a42049.jpeg",
+    "images/FoxyAI_Image_e232c6a0-aab7-48c6-b437-667d57711a71.jpeg"
+   ],
+   "caption": "pajama pants are business casual if you believe hard enough",
+   "zernio_post_id": "6af079f422bd84744b3131dc",
+   "status": "scheduled",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794144609062_af985dff4ead5384_heyymackyy_reel_20261110.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-11",
+   "time_mt": "18:52",
+   "platform": "twitter",
+   "images": [
+    "images/FoxyAI_Image_e48047ae-55b9-4374-b116-750d1548f374.jpeg",
+    "images/FoxyAI_Image_edc9a607-81e0-43bb-b9fa-044693fc6cb0.jpeg"
+   ],
+   "caption": "shh. i'm thinking about snacks",
+   "zernio_post_id": "6af079f622bd84744b3131e4",
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-11-11",
+   "time_mt": "18:52",
+   "platform": "instagram",
+   "images": [
+    "images/FoxyAI_Image_e48047ae-55b9-4374-b116-750d1548f374.jpeg",
+    "images/FoxyAI_Image_edc9a607-81e0-43bb-b9fa-044693fc6cb0.jpeg"
+   ],
+   "caption": "shh. i'm thinking about snacks",
+   "zernio_post_id": "6af079f622bd84744b3131e4",
+   "status": "scheduled",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794144609905_2df68c8183e8df98_heyymackyy_reel_20261111.mp4",
+   "music": null,
+   "ig_ai_label": false
   }
  ]
 }
