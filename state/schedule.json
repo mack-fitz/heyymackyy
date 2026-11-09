@@ -753,7 +753,7 @@
    "media_url": "https://media.zernio.com/media/1794121144572_7a920fd966598512_heyymackyy_hallway_20261108.mp4",
    "caption": "pool's this way. probably",
    "zernio_post_id": "6af01f72e9baf05d2c9a82ee",
-   "status": "scheduled",
+   "status": "published",
    "note": "Mack's video (Nov 8): first 2 s cut, starts in the hallway",
    "platform": "twitter"
   },
@@ -765,7 +765,7 @@
    "media_url": "https://media.zernio.com/media/1794121144572_7a920fd966598512_heyymackyy_hallway_20261108.mp4",
    "caption": "pool's this way. probably",
    "zernio_post_id": "6af01f72e9baf05d2c9a82ee",
-   "status": "scheduled",
+   "status": "published",
    "note": "Mack's video (Nov 8): first 2 s cut, starts in the hallway",
    "platform": "instagram",
    "ig_media": "reel",
@@ -859,6 +859,34 @@
    "status": "scheduled",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794144609905_2df68c8183e8df98_heyymackyy_reel_20261111.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-12",
+   "time_mt": "19:07",
+   "images": [
+    "images/FoxyAI_Image_81390f4b-8198-4336-abe6-7a971a7627bc.jpeg",
+    "images/FoxyAI_Image_a02940f8-6051-42da-b22f-a98cda1826c4.jpeg"
+   ],
+   "caption": "hard hat required. hard work optional",
+   "zernio_post_id": "6af1cbb02da861d071c5e805",
+   "status": "scheduled",
+   "platform": "twitter"
+  },
+  {
+   "date": "2026-11-12",
+   "time_mt": "19:07",
+   "images": [
+    "images/FoxyAI_Image_81390f4b-8198-4336-abe6-7a971a7627bc.jpeg",
+    "images/FoxyAI_Image_a02940f8-6051-42da-b22f-a98cda1826c4.jpeg"
+   ],
+   "caption": "hard hat required. hard work optional",
+   "zernio_post_id": "6af1cbb02da861d071c5e805",
+   "status": "scheduled",
+   "platform": "instagram",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794231090476_6e9eeeb52e0ccb8d_heyymackyy_reel_20261112.mp4",
    "music": null,
    "ig_ai_label": false
   }
