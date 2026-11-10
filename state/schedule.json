@@ -785,7 +785,7 @@
    ],
    "caption": "outfit of the day: whatever was closest",
    "zernio_post_id": "6af079f267545e65e688f3f3",
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "date": "2026-11-09",
@@ -800,7 +800,7 @@
    ],
    "caption": "outfit of the day: whatever was closest",
    "zernio_post_id": "6af079f267545e65e688f3f3",
-   "status": "scheduled",
+   "status": "published",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794144608235_df74e30505a957b4_heyymackyy_reel_20261109.mp4",
    "music": null,
@@ -887,6 +887,34 @@
    "platform": "instagram",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794231090476_6e9eeeb52e0ccb8d_heyymackyy_reel_20261112.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-13",
+   "time_mt": "18:46",
+   "images": [
+    "images/FoxyAI_Image_0470c9d5-a7b0-42dd-824a-3aa6ba9c28fe.jpeg",
+    "images/FoxyAI_Image_9698e970-85b1-49f9-ab0c-bcaa76abc9b6.jpeg"
+   ],
+   "caption": "hoodie's on. that counts as dressed",
+   "zernio_post_id": "6af31f6cffc36b3d3c40b80a",
+   "status": "scheduled",
+   "platform": "twitter"
+  },
+  {
+   "date": "2026-11-13",
+   "time_mt": "18:46",
+   "images": [
+    "images/FoxyAI_Image_0470c9d5-a7b0-42dd-824a-3aa6ba9c28fe.jpeg",
+    "images/FoxyAI_Image_9698e970-85b1-49f9-ab0c-bcaa76abc9b6.jpeg"
+   ],
+   "caption": "hoodie's on. that counts as dressed",
+   "zernio_post_id": "6af31f6cffc36b3d3c40b80a",
+   "status": "scheduled",
+   "platform": "instagram",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794318069160_771e95db135ddee6_heyymackyy_reel_20261113.mp4",
    "music": null,
    "ig_ai_label": false
   }
