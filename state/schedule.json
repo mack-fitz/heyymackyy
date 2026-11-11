@@ -917,6 +917,34 @@
    "ig_reel_url": "https://media.zernio.com/media/1794318069160_771e95db135ddee6_heyymackyy_reel_20261113.mp4",
    "music": null,
    "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-14",
+   "time_mt": "19:23",
+   "images": [
+    "images/FoxyAI_Image_09681088-7126-4bdd-82aa-9740e90efe36.jpeg",
+    "images/FoxyAI_Image_b8838e41-3d6f-4277-9533-388a48d1214f.jpeg"
+   ],
+   "caption": "professional couch tester. results pending",
+   "zernio_post_id": "6af46f94b5020407ea05c2af",
+   "status": "scheduled",
+   "platform": "twitter"
+  },
+  {
+   "date": "2026-11-14",
+   "time_mt": "19:23",
+   "images": [
+    "images/FoxyAI_Image_09681088-7126-4bdd-82aa-9740e90efe36.jpeg",
+    "images/FoxyAI_Image_b8838e41-3d6f-4277-9533-388a48d1214f.jpeg"
+   ],
+   "caption": "professional couch tester. results pending",
+   "zernio_post_id": "6af46f94b5020407ea05c2af",
+   "status": "scheduled",
+   "platform": "instagram",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794404142442_c3e722d9576a2024_heyymackyy_reel_20261114.mp4",
+   "music": null,
+   "ig_ai_label": false
   }
  ]
 }
