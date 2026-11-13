@@ -60,6 +60,16 @@ different Zernio profile, different repo, different voice. Never cross-post or m
   clips state/zupload_log.tsv, then set the IG customMedia to the publicUrl (Zernio copies it to
   permanent storage when the post is saved). Verify with posts_get. If the upload fails, retry once
   with a fresh presigned URL; if it still fails, post the images to IG as before and say so.
+- **AI VIDEO FIRST (Mack, Nov 12; outranks the slideshow rule above).** Mack now makes AI video clips
+  (e.g. FoxyAI_Video, the hallway reel) and puts them in Dropbox /abmclip. Real-motion video reels did
+  4-9x better than photo slideshows (hallway video 486 views / 37% skip vs slideshows 18-121 views /
+  64-93% skip). Every NEW unposted video in /abmclip takes the NEXT open daily slot, ahead of any
+  slideshow. Post the video itself as the IG Reel (shareToFeed true) and as the video on X. Trim dead
+  time at the start so there's motion from the first frame (hallway clip: cut the opening ~2 s), keep it
+  vertical, highest quality, no burned-in text; look at frames and run the AI-artifact check (drop it if
+  obviously broken). Videos keep their own audio unless it's broken (then a /abmclip/music track or
+  silence). Already-scheduled slideshow posts 2+ days out may be swapped for a new video (their images
+  go back in the pool). Only on days with no unused video, fall back to a slideshow reel.
 - Don't reuse an image on the same platform within 30 days. Prefer images never posted. Because each
   slot posts to both, an image posted on X in the last 30 days can't be used even if it's new to IG.
 - Keep at least 3 days of posts scheduled ahead when there's enough content.
