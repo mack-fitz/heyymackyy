@@ -871,7 +871,7 @@
    ],
    "caption": "hard hat required. hard work optional",
    "zernio_post_id": "6af1cbb02da861d071c5e805",
-   "status": "scheduled",
+   "status": "published",
    "platform": "twitter"
   },
   {
@@ -883,7 +883,7 @@
    ],
    "caption": "hard hat required. hard work optional",
    "zernio_post_id": "6af1cbb02da861d071c5e805",
-   "status": "scheduled",
+   "status": "published",
    "platform": "instagram",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794231090476_6e9eeeb52e0ccb8d_heyymackyy_reel_20261112.mp4",
@@ -899,7 +899,7 @@
    ],
    "caption": "hoodie's on. that counts as dressed",
    "zernio_post_id": "6af31f6cffc36b3d3c40b80a",
-   "status": "scheduled",
+   "status": "published",
    "platform": "twitter"
   },
   {
@@ -911,7 +911,7 @@
    ],
    "caption": "hoodie's on. that counts as dressed",
    "zernio_post_id": "6af31f6cffc36b3d3c40b80a",
-   "status": "scheduled",
+   "status": "published",
    "platform": "instagram",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794318069160_771e95db135ddee6_heyymackyy_reel_20261113.mp4",
@@ -973,6 +973,32 @@
    "ig_reel_url": "https://media.zernio.com/media/1794490012825_3cd85902310446e7_heyymackyy_reel_20261115.mp4",
    "music": null,
    "ig_ai_label": false
+  },
+  {
+   "caption": "did one set. earned the eye patches",
+   "date": "2026-11-16",
+   "images": [
+    "images/FoxyAI_Image_5056a56d-6b34-4d68-a47b-eceee7ca8f45.jpeg"
+   ],
+   "status": "scheduled",
+   "time_mt": "18:52",
+   "zernio_post_id": "6af8626716535eb586151e66",
+   "platform": "twitter"
+  },
+  {
+   "caption": "did one set. earned the eye patches",
+   "date": "2026-11-16",
+   "images": [
+    "images/FoxyAI_Image_5056a56d-6b34-4d68-a47b-eceee7ca8f45.jpeg"
+   ],
+   "status": "scheduled",
+   "time_mt": "18:52",
+   "zernio_post_id": "6af8626716535eb586151e66",
+   "platform": "instagram",
+   "ig_ai_label": false,
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794662817650_8cbe693162b0e447_heyymackyy_reel_20261116.mp4",
+   "music": null
   }
  ]
 }
