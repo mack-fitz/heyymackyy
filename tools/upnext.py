@@ -39,7 +39,7 @@ def main(out):
             "when_mt": local.strftime("%a %b %-d · %-I:%M%p").replace("AM", "am").replace("PM", "pm"),
             "caption": p.get("caption", ""),
             "where": PLAT.get(p.get("platform"), p.get("platform", "")),
-            "kind": "carousel" if len(imgs) > 1 else "photo",
+            "kind": p.get("kind") or ("carousel" if len(imgs) > 1 else "photo"),
             "thumbs": [t for t in (thumb(i) for i in imgs) if t],
             "note": p.get("note", ""),
         })

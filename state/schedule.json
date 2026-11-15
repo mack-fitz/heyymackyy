@@ -955,8 +955,9 @@
    ],
    "caption": "gold star for effort. effort not pictured",
    "zernio_post_id": "6af5bef278783d24b30e56e7",
-   "status": "scheduled",
-   "platform": "twitter"
+   "status": "deleted",
+   "platform": "twitter",
+   "note": "Nov 15 run: deleted for Mack's golf video (Mack, Nov 14: \"post the golf one first tomorrow\"); images back in the pool"
   },
   {
    "date": "2026-11-15",
@@ -967,12 +968,13 @@
    ],
    "caption": "gold star for effort. effort not pictured",
    "zernio_post_id": "6af5bef278783d24b30e56e7",
-   "status": "scheduled",
+   "status": "deleted",
    "platform": "instagram",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794490012825_3cd85902310446e7_heyymackyy_reel_20261115.mp4",
    "music": null,
-   "ig_ai_label": false
+   "ig_ai_label": false,
+   "note": "Nov 15 run: deleted for Mack's golf video (Mack, Nov 14: \"post the golf one first tomorrow\"); images back in the pool"
   },
   {
    "caption": "did one set. earned the eye patches",
@@ -980,10 +982,11 @@
    "images": [
     "images/FoxyAI_Image_5056a56d-6b34-4d68-a47b-eceee7ca8f45.jpeg"
    ],
-   "status": "scheduled",
+   "status": "deleted",
    "time_mt": "18:52",
    "zernio_post_id": "6af8626716535eb586151e66",
-   "platform": "twitter"
+   "platform": "twitter",
+   "note": "Nov 15 run: slideshow swapped for an AI video (all-videos week); images back in the pool"
   },
   {
    "caption": "did one set. earned the eye patches",
@@ -991,14 +994,123 @@
    "images": [
     "images/FoxyAI_Image_5056a56d-6b34-4d68-a47b-eceee7ca8f45.jpeg"
    ],
-   "status": "scheduled",
+   "status": "deleted",
    "time_mt": "18:52",
    "zernio_post_id": "6af8626716535eb586151e66",
    "platform": "instagram",
    "ig_ai_label": false,
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794662817650_8cbe693162b0e447_heyymackyy_reel_20261116.mp4",
-   "music": null
+   "music": null,
+   "note": "Nov 15 run: slideshow swapped for an AI video (all-videos week); images back in the pool"
+  },
+  {
+   "date": "2026-11-15",
+   "time_mt": "19:12",
+   "images": [
+    "thumbs/video_18e458eb.jpg"
+   ],
+   "kind": "video",
+   "caption": "the halfway house hot dog is my swing thought",
+   "zernio_post_id": "6af9b43078ee6e121de4e8c5",
+   "status": "scheduled",
+   "platform": "twitter",
+   "video": "abmclip/FoxyAI_Video_18e458eb-accf-4a05-971b-9953a4235a08.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy, faststart",
+   "media_url": "https://media.zernio.com/media/1794749315703_79a050e55039439c_heyymackyy_golfdog_20261115.mp4",
+   "note": "Mack's golf video (golf cart hot dog), posted first per Mack; no trim needed (motion from frame 1); 15 s, 720x1280 24fps, original audio, stream copy +faststart"
+  },
+  {
+   "date": "2026-11-15",
+   "time_mt": "19:12",
+   "images": [
+    "thumbs/video_18e458eb.jpg"
+   ],
+   "kind": "video",
+   "caption": "the halfway house hot dog is my swing thought",
+   "zernio_post_id": "6af9b43078ee6e121de4e8c5",
+   "status": "scheduled",
+   "platform": "instagram",
+   "video": "abmclip/FoxyAI_Video_18e458eb-accf-4a05-971b-9953a4235a08.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy, faststart",
+   "media_url": "https://media.zernio.com/media/1794749315703_79a050e55039439c_heyymackyy_golfdog_20261115.mp4",
+   "note": "Mack's golf video (golf cart hot dog), posted first per Mack; no trim needed (motion from frame 1); 15 s, 720x1280 24fps, original audio, stream copy +faststart",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794749315703_79a050e55039439c_heyymackyy_golfdog_20261115.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-16",
+   "time_mt": "18:41",
+   "images": [
+    "thumbs/video_a1b2dc8f.jpg"
+   ],
+   "kind": "video",
+   "caption": "fit check: the hallway approved",
+   "zernio_post_id": "6af9b43278ee6e121de4e8e9",
+   "status": "scheduled",
+   "platform": "twitter",
+   "video": "abmclip/FoxyAI_Video_a1b2dc8f-4dc3-42ae-9d02-8e0890e946ee.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy, faststart",
+   "media_url": "https://media.zernio.com/media/1794749316308_6ea4f43e78e91452_heyymackyy_mirror_20261116.mp4",
+   "note": "Mack's AI video (hallway mirror selfie, black set); swapped in for the eye-patches slideshow; 14 s, no trim, original audio"
+  },
+  {
+   "date": "2026-11-16",
+   "time_mt": "18:41",
+   "images": [
+    "thumbs/video_a1b2dc8f.jpg"
+   ],
+   "kind": "video",
+   "caption": "fit check: the hallway approved",
+   "zernio_post_id": "6af9b43278ee6e121de4e8e9",
+   "status": "scheduled",
+   "platform": "instagram",
+   "video": "abmclip/FoxyAI_Video_a1b2dc8f-4dc3-42ae-9d02-8e0890e946ee.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy, faststart",
+   "media_url": "https://media.zernio.com/media/1794749316308_6ea4f43e78e91452_heyymackyy_mirror_20261116.mp4",
+   "note": "Mack's AI video (hallway mirror selfie, black set); swapped in for the eye-patches slideshow; 14 s, no trim, original audio",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794749316308_6ea4f43e78e91452_heyymackyy_mirror_20261116.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-17",
+   "time_mt": "19:37",
+   "images": [
+    "thumbs/video_38343f3f.jpg"
+   ],
+   "kind": "video",
+   "caption": "turned around for you. don't make it weird",
+   "zernio_post_id": "6af9b43578ee6e121de4e8f5",
+   "status": "scheduled",
+   "platform": "twitter",
+   "video": "abmclip/FoxyAI_Video_38343f3f-9627-449e-b4ee-c1c49064c75f.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy, faststart",
+   "media_url": "https://media.zernio.com/media/1794749316833_e49533520ca99665_heyymackyy_beachturn_20261117.mp4",
+   "note": "Mack's AI video (beach walk + turn, olive bikini); 10 s, no trim, original audio"
+  },
+  {
+   "date": "2026-11-17",
+   "time_mt": "19:37",
+   "images": [
+    "thumbs/video_38343f3f.jpg"
+   ],
+   "kind": "video",
+   "caption": "turned around for you. don't make it weird",
+   "zernio_post_id": "6af9b43578ee6e121de4e8f5",
+   "status": "scheduled",
+   "platform": "instagram",
+   "video": "abmclip/FoxyAI_Video_38343f3f-9627-449e-b4ee-c1c49064c75f.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy, faststart",
+   "media_url": "https://media.zernio.com/media/1794749316833_e49533520ca99665_heyymackyy_beachturn_20261117.mp4",
+   "note": "Mack's AI video (beach walk + turn, olive bikini); 10 s, no trim, original audio",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794749316833_e49533520ca99665_heyymackyy_beachturn_20261117.mp4",
+   "music": null,
+   "ig_ai_label": false
   }
  ]
 }

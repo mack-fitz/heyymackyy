@@ -70,6 +70,14 @@ different Zernio profile, different repo, different voice. Never cross-post or m
   obviously broken). Videos keep their own audio unless it's broken (then a /abmclip/music track or
   silence). Already-scheduled slideshow posts 2+ days out may be swapped for a new video (their images
   go back in the pool). Only on days with no unused video, fall back to a slideshow reel.
+- **ALL VIDEOS THIS WEEK (Mack, Nov 14; outranks the fallback line above while it applies).** Mack is
+  making only AI videos this week. Every day uses an unposted video, one a day, same post on X + IG.
+  If there is no unused video for a day, post NOTHING that day (no slideshow fallback) and tell Mack
+  how many more videos are needed. Replace any already-scheduled slideshow with a video (images back in
+  the pool) or delete it if there aren't enough videos. The video pool and its planned order live in
+  state/videos.json; relayed videos are NOT kept in images/ (git rm inbox/media after copying them out;
+  the "Fetch inbox media" commit in state/videos.json still holds them). Dashboard thumbnails for video
+  posts go in thumbs/video_<id8>.jpg with `kind: "video"` on the schedule entry.
 - Don't reuse an image on the same platform within 30 days. Prefer images never posted. Because each
   slot posts to both, an image posted on X in the last 30 days can't be used even if it's new to IG.
 - Keep at least 3 days of posts scheduled ahead when there's enough content.

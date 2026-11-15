@@ -1,0 +1,52 @@
+{
+ "note": "Mack's AI videos from /abmclip, one a day (all-videos week). Unposted files live in the 'Fetch inbox media' commit 158459b405e27205a122485f0be4d16263ec7e4f under inbox/media/ (git fetch --depth 1 origin 158459b405e27205a122485f0be4d16263ec7e4f). Order = planned next days.",
+ "fetch_commit": "158459b405e27205a122485f0be4d16263ec7e4f",
+ "queue": [
+  {
+   "file": "FoxyAI_Video_4e81fbfc-ad85-45ca-8dbd-1b2748b97ec0.mp4",
+   "desc": "walking out of the ocean, tan bikini, 15 s",
+   "check": "passed (frames reviewed Nov 15)"
+  },
+  {
+   "file": "FoxyAI_Video_97bd6933-2487-4fa5-aa4d-fe40af21a236.mp4",
+   "desc": "poolside 'make boys cry' tee, dancing, 10 s",
+   "check": "passed"
+  },
+  {
+   "file": "FoxyAI_Video_f3d09e11-961b-4a7a-b091-a9fd047da565.mp4",
+   "desc": "lying on beach selfie, blue bucket hat, wink, 5 s (quiet audio)",
+   "check": "passed"
+  },
+  {
+   "file": "FoxyAI_Video_cc35c344-2a92-4419-95fc-a745ccd69edf.mp4",
+   "desc": "rainbow towel on beach, blowing kiss, 10 s, 1080x1920",
+   "check": "passed"
+  },
+  {
+   "file": "FoxyAI_Video_3a8d5186-69f5-480e-be51-0946eeb2e5a9.mp4",
+   "desc": "crossing street in blue bikini + denim skirt, 5 s; real 'City of Hope' sign in background",
+   "check": "passed"
+  },
+  {
+   "file": "FoxyAI_Video_f78096c0-5197-45a2-8323-8089cee0392d.mp4",
+   "desc": "tie-dye bikini on beach towel, blowing kiss, 10 s, 1080x1920 (very quiet audio)",
+   "check": "passed"
+  },
+  {
+   "file": "FoxyAI_Video_b4cf1d8d-e604-4fd1-9314-e00514c92577.mp4",
+   "desc": "rooftop daybed selfie, white bikini, wink, 5 s (same concept as f3d09e11: keep apart)",
+   "check": "passed"
+  },
+  {
+   "file": "FoxyAI_Video_165ef85c-5fcd-40d3-b20a-95646f464c73.mp4",
+   "desc": "mountain meadow selfie, 10 s. FOOTAGE IS SIDEWAYS (rotated 90 deg): rotate (transpose=2) and fit onto a blurred 1080x1920 frame before posting",
+   "check": "passed; needs rotation"
+  }
+ ],
+ "used": {
+  "FoxyAI_Video_18e458eb-accf-4a05-971b-9953a4235a08.mp4": "2026-11-15",
+  "FoxyAI_Video_a1b2dc8f-4dc3-42ae-9d02-8e0890e946ee.mp4": "2026-11-16",
+  "FoxyAI_Video_38343f3f-9627-449e-b4ee-c1c49064c75f.mp4": "2026-11-17",
+  "FoxyAI_Video_10d01993-ed1a-431b-9a58-bc0cfa954127.mp4": "2026-11-08"
+ }
+}
