@@ -1013,7 +1013,7 @@
    "kind": "video",
    "caption": "the halfway house hot dog is my swing thought",
    "zernio_post_id": "6af9b43078ee6e121de4e8c5",
-   "status": "scheduled",
+   "status": "published",
    "platform": "twitter",
    "video": "abmclip/FoxyAI_Video_18e458eb-accf-4a05-971b-9953a4235a08.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy, faststart",
@@ -1029,7 +1029,7 @@
    "kind": "video",
    "caption": "the halfway house hot dog is my swing thought",
    "zernio_post_id": "6af9b43078ee6e121de4e8c5",
-   "status": "scheduled",
+   "status": "published",
    "platform": "instagram",
    "video": "abmclip/FoxyAI_Video_18e458eb-accf-4a05-971b-9953a4235a08.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy, faststart",
@@ -1109,6 +1109,42 @@
    "note": "Mack's AI video (beach walk + turn, olive bikini); 10 s, no trim, original audio",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794749316833_e49533520ca99665_heyymackyy_beachturn_20261117.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-18",
+   "time_mt": "18:53",
+   "images": [
+    "thumbs/video_4e81fbfc.jpg"
+   ],
+   "kind": "video",
+   "caption": "walked out of the ocean like i had a meeting at 3",
+   "zernio_post_id": "6afb0647d3cdb06f00fce45b",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_4e81fbfc-ad85-45ca-8dbd-1b2748b97ec0.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy, faststart",
+   "media_url": "https://media.zernio.com/media/1794835889862_e67a6c6338ab1b5b_heyymackyy_oceanwalk_20261118.mp4",
+   "note": "Mack's AI video (walking out of the ocean, tan bikini); 15 s, no trim, original audio",
+   "platform": "twitter"
+  },
+  {
+   "date": "2026-11-18",
+   "time_mt": "18:53",
+   "images": [
+    "thumbs/video_4e81fbfc.jpg"
+   ],
+   "kind": "video",
+   "caption": "walked out of the ocean like i had a meeting at 3",
+   "zernio_post_id": "6afb0647d3cdb06f00fce45b",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_4e81fbfc-ad85-45ca-8dbd-1b2748b97ec0.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy, faststart",
+   "media_url": "https://media.zernio.com/media/1794835889862_e67a6c6338ab1b5b_heyymackyy_oceanwalk_20261118.mp4",
+   "note": "Mack's AI video (walking out of the ocean, tan bikini); 15 s, no trim, original audio",
+   "platform": "instagram",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794835889862_e67a6c6338ab1b5b_heyymackyy_oceanwalk_20261118.mp4",
    "music": null,
    "ig_ai_label": false
   }
