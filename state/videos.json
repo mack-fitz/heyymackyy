@@ -3,11 +3,6 @@
  "fetch_commit": "158459b405e27205a122485f0be4d16263ec7e4f",
  "queue": [
   {
-   "file": "FoxyAI_Video_97bd6933-2487-4fa5-aa4d-fe40af21a236.mp4",
-   "desc": "poolside 'make boys cry' tee, dancing, 10 s",
-   "check": "passed"
-  },
-  {
    "file": "FoxyAI_Video_f3d09e11-961b-4a7a-b091-a9fd047da565.mp4",
    "desc": "lying on beach selfie, blue bucket hat, wink, 5 s (quiet audio)",
    "check": "passed"
@@ -43,6 +38,7 @@
   "FoxyAI_Video_a1b2dc8f-4dc3-42ae-9d02-8e0890e946ee.mp4": "2026-11-16",
   "FoxyAI_Video_38343f3f-9627-449e-b4ee-c1c49064c75f.mp4": "2026-11-17",
   "FoxyAI_Video_10d01993-ed1a-431b-9a58-bc0cfa954127.mp4": "2026-11-08",
-  "FoxyAI_Video_4e81fbfc-ad85-45ca-8dbd-1b2748b97ec0.mp4": "2026-11-18"
+  "FoxyAI_Video_4e81fbfc-ad85-45ca-8dbd-1b2748b97ec0.mp4": "2026-11-18",
+  "FoxyAI_Video_97bd6933-2487-4fa5-aa4d-fe40af21a236.mp4": "2026-11-19"
  }
 }

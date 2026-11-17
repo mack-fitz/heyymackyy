@@ -1049,7 +1049,7 @@
    "kind": "video",
    "caption": "fit check: the hallway approved",
    "zernio_post_id": "6af9b43278ee6e121de4e8e9",
-   "status": "scheduled",
+   "status": "published",
    "platform": "twitter",
    "video": "abmclip/FoxyAI_Video_a1b2dc8f-4dc3-42ae-9d02-8e0890e946ee.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy, faststart",
@@ -1065,7 +1065,7 @@
    "kind": "video",
    "caption": "fit check: the hallway approved",
    "zernio_post_id": "6af9b43278ee6e121de4e8e9",
-   "status": "scheduled",
+   "status": "published",
    "platform": "instagram",
    "video": "abmclip/FoxyAI_Video_a1b2dc8f-4dc3-42ae-9d02-8e0890e946ee.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy, faststart",
@@ -1145,6 +1145,42 @@
    "platform": "instagram",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794835889862_e67a6c6338ab1b5b_heyymackyy_oceanwalk_20261118.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-19",
+   "time_mt": "19:24",
+   "images": [
+    "thumbs/video_97bd6933.jpg"
+   ],
+   "kind": "video",
+   "caption": "pétanque you very much",
+   "zernio_post_id": "6afc58abbceb2de35945abd8",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_97bd6933-2487-4fa5-aa4d-fe40af21a236.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy 720x1280, faststart",
+   "media_url": "https://media.zernio.com/media/1794922568818_1b7b0637f5a3231a_heyymackyy_petanque_20261119.mp4",
+   "note": "Mack's AI video (poolside boules toss, 'make boys cry' tee); 10 s, no trim, original audio",
+   "platform": "twitter"
+  },
+  {
+   "date": "2026-11-19",
+   "time_mt": "19:24",
+   "images": [
+    "thumbs/video_97bd6933.jpg"
+   ],
+   "kind": "video",
+   "caption": "pétanque you very much",
+   "zernio_post_id": "6afc58abbceb2de35945abd8",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_97bd6933-2487-4fa5-aa4d-fe40af21a236.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy 720x1280, faststart",
+   "media_url": "https://media.zernio.com/media/1794922568818_1b7b0637f5a3231a_heyymackyy_petanque_20261119.mp4",
+   "note": "Mack's AI video (poolside boules toss, 'make boys cry' tee); 10 s, no trim, original audio",
+   "platform": "instagram",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1794922568818_1b7b0637f5a3231a_heyymackyy_petanque_20261119.mp4",
    "music": null,
    "ig_ai_label": false
   }
