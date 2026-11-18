@@ -1085,7 +1085,7 @@
    "kind": "video",
    "caption": "turned around for you. don't make it weird",
    "zernio_post_id": "6af9b43578ee6e121de4e8f5",
-   "status": "scheduled",
+   "status": "published",
    "platform": "twitter",
    "video": "abmclip/FoxyAI_Video_38343f3f-9627-449e-b4ee-c1c49064c75f.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy, faststart",
@@ -1101,7 +1101,7 @@
    "kind": "video",
    "caption": "turned around for you. don't make it weird",
    "zernio_post_id": "6af9b43578ee6e121de4e8f5",
-   "status": "scheduled",
+   "status": "published",
    "platform": "instagram",
    "video": "abmclip/FoxyAI_Video_38343f3f-9627-449e-b4ee-c1c49064c75f.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy, faststart",
@@ -1181,6 +1181,42 @@
    "platform": "instagram",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1794922568818_1b7b0637f5a3231a_heyymackyy_petanque_20261119.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-20",
+   "time_mt": "18:17",
+   "images": [
+    "thumbs/video_f3d09e11.jpg"
+   ],
+   "kind": "video",
+   "caption": "bucket hat doing all the heavy lifting",
+   "zernio_post_id": "6afdab4e041fe90c13b538b2",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_f3d09e11-961b-4a7a-b091-a9fd047da565.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy 720x1280, faststart",
+   "media_url": "https://media.zernio.com/media/1795009270909_3a29cc8667941c21_heyymackyy_buckethat_20261120.mp4",
+   "note": "Mack's AI video (lying on the beach, blue bucket hat, wink); 5 s, no trim, original audio",
+   "platform": "twitter"
+  },
+  {
+   "date": "2026-11-20",
+   "time_mt": "18:17",
+   "images": [
+    "thumbs/video_f3d09e11.jpg"
+   ],
+   "kind": "video",
+   "caption": "bucket hat doing all the heavy lifting",
+   "zernio_post_id": "6afdab4e041fe90c13b538b2",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_f3d09e11-961b-4a7a-b091-a9fd047da565.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy 720x1280, faststart",
+   "media_url": "https://media.zernio.com/media/1795009270909_3a29cc8667941c21_heyymackyy_buckethat_20261120.mp4",
+   "note": "Mack's AI video (lying on the beach, blue bucket hat, wink); 5 s, no trim, original audio",
+   "platform": "instagram",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1795009270909_3a29cc8667941c21_heyymackyy_buckethat_20261120.mp4",
    "music": null,
    "ig_ai_label": false
   }
