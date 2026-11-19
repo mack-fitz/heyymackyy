@@ -1121,7 +1121,7 @@
    "kind": "video",
    "caption": "walked out of the ocean like i had a meeting at 3",
    "zernio_post_id": "6afb0647d3cdb06f00fce45b",
-   "status": "scheduled",
+   "status": "published",
    "video": "abmclip/FoxyAI_Video_4e81fbfc-ad85-45ca-8dbd-1b2748b97ec0.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy, faststart",
    "media_url": "https://media.zernio.com/media/1794835889862_e67a6c6338ab1b5b_heyymackyy_oceanwalk_20261118.mp4",
@@ -1137,7 +1137,7 @@
    "kind": "video",
    "caption": "walked out of the ocean like i had a meeting at 3",
    "zernio_post_id": "6afb0647d3cdb06f00fce45b",
-   "status": "scheduled",
+   "status": "published",
    "video": "abmclip/FoxyAI_Video_4e81fbfc-ad85-45ca-8dbd-1b2748b97ec0.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy, faststart",
    "media_url": "https://media.zernio.com/media/1794835889862_e67a6c6338ab1b5b_heyymackyy_oceanwalk_20261118.mp4",
@@ -1217,6 +1217,42 @@
    "platform": "instagram",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1795009270909_3a29cc8667941c21_heyymackyy_buckethat_20261120.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-21",
+   "time_mt": "18:41",
+   "images": [
+    "thumbs/video_cc35c344.jpg"
+   ],
+   "kind": "video",
+   "caption": "kiss sent. no tracking number",
+   "zernio_post_id": "6afefc53ae85532e2c0dc9ad",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_cc35c344-2a92-4419-95fc-a745ccd69edf.mp4",
+   "video_edit": "trimmed opening 2.0 s (static smile) so the blown kiss lands in the first second; re-encoded H.264 CRF 17 1080x1920 24fps, faststart",
+   "media_url": "https://media.zernio.com/media/1795095532582_2d749bb638034895_heyymackyy_rainbowtowel_20261121.mp4",
+   "note": "Mack's AI video (rainbow towel on the beach, backwards cap, blowing a kiss); 8 s, original audio",
+   "platform": "twitter"
+  },
+  {
+   "date": "2026-11-21",
+   "time_mt": "18:41",
+   "images": [
+    "thumbs/video_cc35c344.jpg"
+   ],
+   "kind": "video",
+   "caption": "kiss sent. no tracking number",
+   "zernio_post_id": "6afefc53ae85532e2c0dc9ad",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_cc35c344-2a92-4419-95fc-a745ccd69edf.mp4",
+   "video_edit": "trimmed opening 2.0 s (static smile) so the blown kiss lands in the first second; re-encoded H.264 CRF 17 1080x1920 24fps, faststart",
+   "media_url": "https://media.zernio.com/media/1795095532582_2d749bb638034895_heyymackyy_rainbowtowel_20261121.mp4",
+   "note": "Mack's AI video (rainbow towel on the beach, backwards cap, blowing a kiss); 8 s, original audio",
+   "platform": "instagram",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1795095532582_2d749bb638034895_heyymackyy_rainbowtowel_20261121.mp4",
    "music": null,
    "ig_ai_label": false
   }
