@@ -1157,7 +1157,7 @@
    "kind": "video",
    "caption": "pétanque you very much",
    "zernio_post_id": "6afc58abbceb2de35945abd8",
-   "status": "scheduled",
+   "status": "published",
    "video": "abmclip/FoxyAI_Video_97bd6933-2487-4fa5-aa4d-fe40af21a236.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy 720x1280, faststart",
    "media_url": "https://media.zernio.com/media/1794922568818_1b7b0637f5a3231a_heyymackyy_petanque_20261119.mp4",
@@ -1173,7 +1173,7 @@
    "kind": "video",
    "caption": "pétanque you very much",
    "zernio_post_id": "6afc58abbceb2de35945abd8",
-   "status": "scheduled",
+   "status": "published",
    "video": "abmclip/FoxyAI_Video_97bd6933-2487-4fa5-aa4d-fe40af21a236.mp4",
    "video_edit": "no trim (motion from the first frame); stream copy 720x1280, faststart",
    "media_url": "https://media.zernio.com/media/1794922568818_1b7b0637f5a3231a_heyymackyy_petanque_20261119.mp4",
@@ -1253,6 +1253,42 @@
    "platform": "instagram",
    "ig_media": "reel",
    "ig_reel_url": "https://media.zernio.com/media/1795095532582_2d749bb638034895_heyymackyy_rainbowtowel_20261121.mp4",
+   "music": null,
+   "ig_ai_label": false
+  },
+  {
+   "date": "2026-11-22",
+   "time_mt": "19:07",
+   "images": [
+    "thumbs/video_3a8d5186.jpg"
+   ],
+   "kind": "video",
+   "caption": "crosswalk? i thought you said catwalk",
+   "zernio_post_id": "6b004b3ea3d0e800637a3dd2",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_3a8d5186-69f5-480e-be51-0946eeb2e5a9.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy 720x1280 30fps, faststart",
+   "media_url": "https://media.zernio.com/media/1795181181859_55ef2335687f6935_heyymackyy_crosswalk_20261122.mp4",
+   "note": "Mack's AI video (crossing the street in a blue bikini + denim shorts, phone in hand); 5 s, no trim, original audio",
+   "platform": "twitter"
+  },
+  {
+   "date": "2026-11-22",
+   "time_mt": "19:07",
+   "images": [
+    "thumbs/video_3a8d5186.jpg"
+   ],
+   "kind": "video",
+   "caption": "crosswalk? i thought you said catwalk",
+   "zernio_post_id": "6b004b3ea3d0e800637a3dd2",
+   "status": "scheduled",
+   "video": "abmclip/FoxyAI_Video_3a8d5186-69f5-480e-be51-0946eeb2e5a9.mp4",
+   "video_edit": "no trim (motion from the first frame); stream copy 720x1280 30fps, faststart",
+   "media_url": "https://media.zernio.com/media/1795181181859_55ef2335687f6935_heyymackyy_crosswalk_20261122.mp4",
+   "note": "Mack's AI video (crossing the street in a blue bikini + denim shorts, phone in hand); 5 s, no trim, original audio",
+   "platform": "instagram",
+   "ig_media": "reel",
+   "ig_reel_url": "https://media.zernio.com/media/1795181181859_55ef2335687f6935_heyymackyy_crosswalk_20261122.mp4",
    "music": null,
    "ig_ai_label": false
   }
